@@ -1,0 +1,2 @@
+Prueba	de	TABS
+1	2	3
