@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScalabilityVersusResponsive
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingConfigureAwait", "UsingConfigureAwait\UsingConfigureAwait.csproj", "{3F66629F-7B71-42C3-8D97-AB97807CDBAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingAsyncAwaitExercise", "UsingAsyncAwaitExercise\UsingAsyncAwaitExercise.csproj", "{769611D3-999C-4467-812B-6A9F574ADC7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3F66629F-7B71-42C3-8D97-AB97807CDBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F66629F-7B71-42C3-8D97-AB97807CDBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F66629F-7B71-42C3-8D97-AB97807CDBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{769611D3-999C-4467-812B-6A9F574ADC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769611D3-999C-4467-812B-6A9F574ADC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769611D3-999C-4467-812B-6A9F574ADC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769611D3-999C-4467-812B-6A9F574ADC7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
