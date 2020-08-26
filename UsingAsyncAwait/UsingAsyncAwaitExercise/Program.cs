@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Net.Http;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace UsingAsyncAwaitExercise
@@ -18,8 +16,8 @@ namespace UsingAsyncAwaitExercise
                 tasks.Add(DownloadContent(site));
             }
             int index = Task.WaitAny(tasks.ToArray());
-            Task<string> taskCompleted = tasks.ToArray()[index];
-            Console.WriteLine($"El sitio que respondió primero fue: {taskCompleted.Result} ");
+            Task<string> completedTask = tasks.ToArray()[index];
+            Console.WriteLine($"El sitio que respondió primero fue: {completedTask.Result} ");
             Console.Read();
 
         }
