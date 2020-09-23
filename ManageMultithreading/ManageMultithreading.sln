@@ -9,6 +9,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingThelockKeyword", "Usin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatingDeadlock", "CreatingDeadlock\CreatingDeadlock.csproj", "{A8DC87E5-3AC3-4E65-AE72-EAE11761903D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolatileClass", "VolatileClass\VolatileClass.csproj", "{726F86A9-20DC-46CD-B8B5-1A967B82FD50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingInterlockedClass", "UsingInterlockedClass\UsingInterlockedClass.csproj", "{0AD6FEFB-4BF4-478D-8AC8-64FF7F7B92A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeNnonatomicOperation", "ExchangeNnonatomicOperation\ExchangeNnonatomicOperation.csproj", "{43D0B486-8792-41EE-84E2-680B485C73B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingCancellationToken", "UsingCancellationToken\UsingCancellationToken.csproj", "{F9671C9C-5C90-41E6-B1BF-3D24D0A6EFC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThrowingOperationCanceledException", "ThrowingOperationCanceledException\ThrowingOperationCanceledException.csproj", "{49653A7D-A73F-4137-977A-EDCB4EA20BF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SettingTimeoutOnTask", "SettingTimeoutOnTask\SettingTimeoutOnTask.csproj", "{AC4A05B9-A7E7-4E5A-9A63-998820BCFB91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +39,30 @@ Global
 		{A8DC87E5-3AC3-4E65-AE72-EAE11761903D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8DC87E5-3AC3-4E65-AE72-EAE11761903D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8DC87E5-3AC3-4E65-AE72-EAE11761903D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{726F86A9-20DC-46CD-B8B5-1A967B82FD50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{726F86A9-20DC-46CD-B8B5-1A967B82FD50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{726F86A9-20DC-46CD-B8B5-1A967B82FD50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{726F86A9-20DC-46CD-B8B5-1A967B82FD50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AD6FEFB-4BF4-478D-8AC8-64FF7F7B92A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD6FEFB-4BF4-478D-8AC8-64FF7F7B92A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD6FEFB-4BF4-478D-8AC8-64FF7F7B92A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD6FEFB-4BF4-478D-8AC8-64FF7F7B92A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D0B486-8792-41EE-84E2-680B485C73B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D0B486-8792-41EE-84E2-680B485C73B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D0B486-8792-41EE-84E2-680B485C73B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D0B486-8792-41EE-84E2-680B485C73B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9671C9C-5C90-41E6-B1BF-3D24D0A6EFC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9671C9C-5C90-41E6-B1BF-3D24D0A6EFC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9671C9C-5C90-41E6-B1BF-3D24D0A6EFC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9671C9C-5C90-41E6-B1BF-3D24D0A6EFC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49653A7D-A73F-4137-977A-EDCB4EA20BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49653A7D-A73F-4137-977A-EDCB4EA20BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49653A7D-A73F-4137-977A-EDCB4EA20BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49653A7D-A73F-4137-977A-EDCB4EA20BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4A05B9-A7E7-4E5A-9A63-998820BCFB91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4A05B9-A7E7-4E5A-9A63-998820BCFB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4A05B9-A7E7-4E5A-9A63-998820BCFB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4A05B9-A7E7-4E5A-9A63-998820BCFB91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
