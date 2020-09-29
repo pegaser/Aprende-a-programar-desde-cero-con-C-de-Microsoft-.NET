@@ -17,6 +17,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingDelegatesWithLambda", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingActionDelegate", "UsingActionDelegate\UsingActionDelegate.csproj", "{4211F425-E377-4746-B13F-FDBFC809980C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExposeAnEvent", "ExposeAnEvent\ExposeAnEvent.csproj", "{1759F330-38CB-49CB-8FC6-E5A6F22F2F59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomEventArguments", "CustomEventArguments\CustomEventArguments.csproj", "{6EFF6F8C-CABE-4438-85BA-926826E9EE4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomEventAccessor", "CustomEventAccessor\CustomEventAccessor.csproj", "{67DF965B-1BBD-4B10-9E33-1DFCBCF581A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionRaisingEvent", "ExceptionRaisingEvent\ExceptionRaisingEvent.csproj", "{41577059-6DF7-4559-B93A-C4E173312006}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManuallyRisingEventExceptionHandling", "ManuallyRisingEventExceptionHandling\ManuallyRisingEventExceptionHandling.csproj", "{9302898E-39A7-4BC0-864F-DCF2526DBD40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +61,26 @@ Global
 		{4211F425-E377-4746-B13F-FDBFC809980C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4211F425-E377-4746-B13F-FDBFC809980C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4211F425-E377-4746-B13F-FDBFC809980C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1759F330-38CB-49CB-8FC6-E5A6F22F2F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1759F330-38CB-49CB-8FC6-E5A6F22F2F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1759F330-38CB-49CB-8FC6-E5A6F22F2F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1759F330-38CB-49CB-8FC6-E5A6F22F2F59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EFF6F8C-CABE-4438-85BA-926826E9EE4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EFF6F8C-CABE-4438-85BA-926826E9EE4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EFF6F8C-CABE-4438-85BA-926826E9EE4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EFF6F8C-CABE-4438-85BA-926826E9EE4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67DF965B-1BBD-4B10-9E33-1DFCBCF581A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DF965B-1BBD-4B10-9E33-1DFCBCF581A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DF965B-1BBD-4B10-9E33-1DFCBCF581A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DF965B-1BBD-4B10-9E33-1DFCBCF581A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41577059-6DF7-4559-B93A-C4E173312006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41577059-6DF7-4559-B93A-C4E173312006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41577059-6DF7-4559-B93A-C4E173312006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41577059-6DF7-4559-B93A-C4E173312006}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9302898E-39A7-4BC0-864F-DCF2526DBD40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9302898E-39A7-4BC0-864F-DCF2526DBD40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9302898E-39A7-4BC0-864F-DCF2526DBD40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9302898E-39A7-4BC0-864F-DCF2526DBD40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
