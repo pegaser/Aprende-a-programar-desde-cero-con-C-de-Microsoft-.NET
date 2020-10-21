@@ -1,0 +1,2 @@
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\TypesAdvanced\UsingSealedKeyword\obj\Debug\UsingSealedKeyword.csprojAssemblyReference.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\TypesAdvanced\UsingSealedKeyword\obj\Debug\UsingSealedKeyword.csproj.CoreCompileInputs.cache
