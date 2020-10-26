@@ -17,7 +17,7 @@ namespace Homework
 
         static void Main()
         {
-            List<bool> list1 = GetInitializedList(true, 7);
+            List<bool> list1 = GetInitializedList<bool>(true, 7);
             List<string> list2 = GetInitializedList<string>("C#", 3);
             foreach (bool value in list1)
             {
