@@ -9,7 +9,7 @@ using System.Windows;
 namespace UsingConfigureAwait
 {
     /// <summary>
-    /// Lógica de interacción para App.xaml
+    /// Interaction logic for App.xaml
     /// </summary>
     public partial class App : Application
     {
