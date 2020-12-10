@@ -50,7 +50,6 @@ namespace FileExample
             }
             Console.ReadKey();
 
-
         }
     }
 }
