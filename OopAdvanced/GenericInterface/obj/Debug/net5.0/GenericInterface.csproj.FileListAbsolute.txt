@@ -1,0 +1,5 @@
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\OopAdvanced\GenericInterface\obj\Debug\net5.0\GenericInterface.csprojAssemblyReference.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\OopAdvanced\GenericInterface\obj\Debug\net5.0\GenericInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\OopAdvanced\GenericInterface\obj\Debug\net5.0\GenericInterface.AssemblyInfoInputs.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\OopAdvanced\GenericInterface\obj\Debug\net5.0\GenericInterface.AssemblyInfo.cs
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\OopAdvanced\GenericInterface\obj\Debug\net5.0\GenericInterface.csproj.CoreCompileInputs.cache

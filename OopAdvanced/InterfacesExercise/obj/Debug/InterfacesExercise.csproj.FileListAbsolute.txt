@@ -1,7 +1,0 @@
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\OopAdvanced\InterfacesExercise\bin\Debug\InterfacesExercise.exe.config
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\OopAdvanced\InterfacesExercise\bin\Debug\InterfacesExercise.exe
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\OopAdvanced\InterfacesExercise\bin\Debug\InterfacesExercise.pdb
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\OopAdvanced\InterfacesExercise\obj\Debug\InterfacesExercise.csprojAssemblyReference.cache
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\OopAdvanced\InterfacesExercise\obj\Debug\InterfacesExercise.csproj.CoreCompileInputs.cache
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\OopAdvanced\InterfacesExercise\obj\Debug\InterfacesExercise.exe
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\OopAdvanced\InterfacesExercise\obj\Debug\InterfacesExercise.pdb
