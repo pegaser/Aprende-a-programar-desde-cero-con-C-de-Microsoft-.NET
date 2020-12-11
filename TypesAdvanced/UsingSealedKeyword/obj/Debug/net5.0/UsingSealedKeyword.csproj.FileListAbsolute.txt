@@ -1,0 +1,4 @@
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\TypesAdvanced\UsingSealedKeyword\obj\Debug\net5.0\UsingSealedKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\TypesAdvanced\UsingSealedKeyword\obj\Debug\net5.0\UsingSealedKeyword.AssemblyInfoInputs.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\TypesAdvanced\UsingSealedKeyword\obj\Debug\net5.0\UsingSealedKeyword.AssemblyInfo.cs
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\TypesAdvanced\UsingSealedKeyword\obj\Debug\net5.0\UsingSealedKeyword.csproj.CoreCompileInputs.cache
