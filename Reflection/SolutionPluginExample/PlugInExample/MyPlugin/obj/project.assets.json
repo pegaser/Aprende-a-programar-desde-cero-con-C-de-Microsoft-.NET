@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ProjectPlugInExample/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ProjectPlugInExample.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjectPlugInExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjectPlugInExample/1.0.0": {
+      "type": "project",
+      "path": "../ProjectPlugInExample/ProjectPlugInExample.csproj",
+      "msbuildProject": "../ProjectPlugInExample/ProjectPlugInExample.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ProjectPlugInExample >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\spere\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\Reflection\\SolutionPluginExample\\PlugInExample\\MyPlugin\\MyPlugin.csproj",
+      "projectName": "MyPlugin",
+      "projectPath": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\Reflection\\SolutionPluginExample\\PlugInExample\\MyPlugin\\MyPlugin.csproj",
+      "packagesPath": "C:\\Users\\spere\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\Reflection\\SolutionPluginExample\\PlugInExample\\MyPlugin\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\spere\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\Reflection\\SolutionPluginExample\\PlugInExample\\ProjectPlugInExample\\ProjectPlugInExample.csproj": {
+              "projectPath": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\Reflection\\SolutionPluginExample\\PlugInExample\\ProjectPlugInExample\\ProjectPlugInExample.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
