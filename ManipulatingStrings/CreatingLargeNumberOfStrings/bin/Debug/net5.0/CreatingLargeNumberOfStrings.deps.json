@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CreatingLargeNumberOfStrings/1.0.0": {
+        "runtime": {
+          "CreatingLargeNumberOfStrings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreatingLargeNumberOfStrings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
