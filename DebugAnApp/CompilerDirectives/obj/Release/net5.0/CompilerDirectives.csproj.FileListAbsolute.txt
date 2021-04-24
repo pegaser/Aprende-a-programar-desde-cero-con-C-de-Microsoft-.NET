@@ -1,0 +1,5 @@
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\DebugAnApp\CompilerDirectives\obj\Release\net5.0\CompilerDirectives.csprojAssemblyReference.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\DebugAnApp\CompilerDirectives\obj\Release\net5.0\CompilerDirectives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\DebugAnApp\CompilerDirectives\obj\Release\net5.0\CompilerDirectives.AssemblyInfoInputs.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\DebugAnApp\CompilerDirectives\obj\Release\net5.0\CompilerDirectives.AssemblyInfo.cs
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\DebugAnApp\CompilerDirectives\obj\Release\net5.0\CompilerDirectives.csproj.CoreCompileInputs.cache
