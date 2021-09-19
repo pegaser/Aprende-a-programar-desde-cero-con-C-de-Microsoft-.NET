@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingDelegates", "UsingDele
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingDelegatesWithLambda", "UsingDelegatesWithLambda\UsingDelegatesWithLambda.csproj", "{60CA51C6-9F9E-492B-8D4E-B62776927070}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManuallyRisingEventExceptionHandling", "ManuallyRisingEventExceptionHandling\ManuallyRisingEventExceptionHandling.csproj", "{762BD9A3-E3E3-4917-A2BC-5F93DE27D7EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManuallyRisingEventExceptionHandling", "ManuallyRisingEventExceptionHandling\ManuallyRisingEventExceptionHandling.csproj", "{762BD9A3-E3E3-4917-A2BC-5F93DE27D7EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaHomework", "LambdaHomework\LambdaHomework.csproj", "{09F91217-06B5-4159-B911-B2C288D13A8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{762BD9A3-E3E3-4917-A2BC-5F93DE27D7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{762BD9A3-E3E3-4917-A2BC-5F93DE27D7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{762BD9A3-E3E3-4917-A2BC-5F93DE27D7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09F91217-06B5-4159-B911-B2C288D13A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F91217-06B5-4159-B911-B2C288D13A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F91217-06B5-4159-B911-B2C288D13A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F91217-06B5-4159-B911-B2C288D13A8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

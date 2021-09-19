@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleAreaCalculator", "CircleAreaCalculator\CircleAreaCalculator.csproj", "{5AF0C737-34B9-46CC-B5CB-44A377605BB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CircleAreaCalculator", "CircleAreaCalculator\CircleAreaCalculator.csproj", "{5AF0C737-34B9-46CC-B5CB-44A377605BB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkSection3", "HomeworkSection3\HomeworkSection3.csproj", "{F4AFBF92-6D23-4C71-B8CD-EF909200EC0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkSection3Resolved", "HomeworkSection3Resolved\HomeworkSection3Resolved.csproj", "{AD214B98-4F67-41DD-BFDB-2688E0D0B72A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{5AF0C737-34B9-46CC-B5CB-44A377605BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AF0C737-34B9-46CC-B5CB-44A377605BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AF0C737-34B9-46CC-B5CB-44A377605BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4AFBF92-6D23-4C71-B8CD-EF909200EC0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4AFBF92-6D23-4C71-B8CD-EF909200EC0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4AFBF92-6D23-4C71-B8CD-EF909200EC0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4AFBF92-6D23-4C71-B8CD-EF909200EC0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD214B98-4F67-41DD-BFDB-2688E0D0B72A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD214B98-4F67-41DD-BFDB-2688E0D0B72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD214B98-4F67-41DD-BFDB-2688E0D0B72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD214B98-4F67-41DD-BFDB-2688E0D0B72A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

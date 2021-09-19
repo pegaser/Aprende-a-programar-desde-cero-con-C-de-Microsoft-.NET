@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingStringWriterAsOutput",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchingForAndEnumStrings", "SearchingForAndEnumStrings\SearchingForAndEnumStrings.csproj", "{D292B795-B7B2-400A-80DD-E1EB7B35A68C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormattingStrings", "FormattingStrings\FormattingStrings.csproj", "{A09856FE-5B17-4574-93A1-710F45339AED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormattingStrings", "FormattingStrings\FormattingStrings.csproj", "{A09856FE-5B17-4574-93A1-710F45339AED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormattingStringsExercise", "FormattingStringsExercise\FormattingStringsExercise.csproj", "{2F86D074-F6CA-40A0-A769-78706AE55B19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormattingStringsExercise", "FormattingStringsExercise\FormattingStringsExercise.csproj", "{2F86D074-F6CA-40A0-A769-78706AE55B19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkResolved", "HomeworkResolved\HomeworkResolved.csproj", "{4AAF2A7F-54B6-4718-9376-3EE4163C29BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{2F86D074-F6CA-40A0-A769-78706AE55B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F86D074-F6CA-40A0-A769-78706AE55B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F86D074-F6CA-40A0-A769-78706AE55B19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AAF2A7F-54B6-4718-9376-3EE4163C29BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AAF2A7F-54B6-4718-9376-3EE4163C29BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AAF2A7F-54B6-4718-9376-3EE4163C29BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AAF2A7F-54B6-4718-9376-3EE4163C29BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

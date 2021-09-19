@@ -3,23 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypesAdvanced", "TypesAdvanced\TypesAdvanced.csproj", "{02C1CB49-530C-4867-9F92-CC903E731470}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypesAdvanced", "TypesAdvanced\TypesAdvanced.csproj", "{02C1CB49-530C-4867-9F92-CC903E731470}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatingCustomDynamicObject", "CreatingCustomDynamicObject\CreatingCustomDynamicObject.csproj", "{229C8AA5-D4A8-4AE0-905E-8333F7A40C27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreatingCustomDynamicObject", "CreatingCustomDynamicObject\CreatingCustomDynamicObject.csproj", "{229C8AA5-D4A8-4AE0-905E-8333F7A40C27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatingExtensionMethod", "CreatingExtensionMethod\CreatingExtensionMethod.csproj", "{A0354EB7-3CBE-43FC-8A7E-D9F2B38327B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreatingExtensionMethod", "CreatingExtensionMethod\CreatingExtensionMethod.csproj", "{A0354EB7-3CBE-43FC-8A7E-D9F2B38327B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportingDataToExcel", "ExportingDataToExcel\ExportingDataToExcel.csproj", "{99795A54-9F0A-4F90-9316-108F4D1569F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExportingDataToExcel", "ExportingDataToExcel\ExportingDataToExcel.csproj", "{99795A54-9F0A-4F90-9316-108F4D1569F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericNullableimplementation", "GenericNullableimplementation\GenericNullableimplementation.csproj", "{8912BD72-DFAF-46BB-90BB-201D87D8EFE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericNullableimplementation", "GenericNullableimplementation\GenericNullableimplementation.csproj", "{8912BD72-DFAF-46BB-90BB-201D87D8EFE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework", "Homework\Homework.csproj", "{835D4BE2-4496-49A5-947B-63D17B5801F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework", "Homework\Homework.csproj", "{835D4BE2-4496-49A5-947B-63D17B5801F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverridingVirtualMethod", "OverridingVirtualMethod\OverridingVirtualMethod.csproj", "{8D89B82A-A21A-42CE-A433-C1D626FF5011}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OverridingVirtualMethod", "OverridingVirtualMethod\OverridingVirtualMethod.csproj", "{8D89B82A-A21A-42CE-A433-C1D626FF5011}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingSealedKeyword", "UsingSealedKeyword\UsingSealedKeyword.csproj", "{41442CC3-FFF0-405D-8757-7C49C90BBBC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingSealedKeyword", "UsingSealedKeyword\UsingSealedKeyword.csproj", "{41442CC3-FFF0-405D-8757-7C49C90BBBC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingWhereClause", "UsingWhereClause\UsingWhereClause.csproj", "{0EDED48F-CCC1-49EB-B845-A76EDDAE0A80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingWhereClause", "UsingWhereClause\UsingWhereClause.csproj", "{0EDED48F-CCC1-49EB-B845-A76EDDAE0A80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework2", "Homework2\Homework2.csproj", "{EF33C000-5F1A-430F-8986-1EE2E8248F28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework2_Resolved", "Homework2_Resolved\Homework2_Resolved.csproj", "{919E8C28-DE36-4B5F-A43F-CD421CCE4EBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{0EDED48F-CCC1-49EB-B845-A76EDDAE0A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EDED48F-CCC1-49EB-B845-A76EDDAE0A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EDED48F-CCC1-49EB-B845-A76EDDAE0A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF33C000-5F1A-430F-8986-1EE2E8248F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF33C000-5F1A-430F-8986-1EE2E8248F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF33C000-5F1A-430F-8986-1EE2E8248F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF33C000-5F1A-430F-8986-1EE2E8248F28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{919E8C28-DE36-4B5F-A43F-CD421CCE4EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{919E8C28-DE36-4B5F-A43F-CD421CCE4EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{919E8C28-DE36-4B5F-A43F-CD421CCE4EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{919E8C28-DE36-4B5F-A43F-CD421CCE4EBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
