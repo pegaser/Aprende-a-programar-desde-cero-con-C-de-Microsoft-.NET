@@ -17,7 +17,7 @@ namespace WritingDataToEventLog
             }
             EventLog myLog = new EventLog();
             myLog.Source = "WritingDataToEventLog_Source";
-            myLog.WriteEntry("Log event!");
+            myLog.WriteEntry("Log event!", EventLogEntryType.);
         }
     }
 }

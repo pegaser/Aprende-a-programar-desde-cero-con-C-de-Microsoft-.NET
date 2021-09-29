@@ -27,7 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileSystemIsNotJustForYou",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WritingAsynchronouslyToFile", "WritingAsynchronouslyToFile\WritingAsynchronouslyToFile.csproj", "{ECC499E5-77B3-4A96-B0C9-91EB691B7A2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{FEEA7B7C-2BD4-48BC-91D5-656BAEFDF3F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{FEEA7B7C-2BD4-48BC-91D5-656BAEFDF3F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkResolved", "HomeworkResolved\HomeworkResolved.csproj", "{B5DF39DA-0D7A-4137-9C03-7229B8664F10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework", "Homework\Homework.csproj", "{69F9F4FD-2E53-49FC-A304-B776195DA4D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,14 @@ Global
 		{FEEA7B7C-2BD4-48BC-91D5-656BAEFDF3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEEA7B7C-2BD4-48BC-91D5-656BAEFDF3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEEA7B7C-2BD4-48BC-91D5-656BAEFDF3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5DF39DA-0D7A-4137-9C03-7229B8664F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5DF39DA-0D7A-4137-9C03-7229B8664F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5DF39DA-0D7A-4137-9C03-7229B8664F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5DF39DA-0D7A-4137-9C03-7229B8664F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F9F4FD-2E53-49FC-A304-B776195DA4D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F9F4FD-2E53-49FC-A304-B776195DA4D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F9F4FD-2E53-49FC-A304-B776195DA4D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F9F4FD-2E53-49FC-A304-B776195DA4D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

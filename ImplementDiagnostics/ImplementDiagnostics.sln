@@ -9,17 +9,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingTraceSourceClass", "Us
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConfiguringTraceListener", "ConfiguringTraceListener\ConfiguringTraceListener.csproj", "{E183D88B-25A5-479A-8C09-64533599DC2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WritingDataToEventLog", "WritingDataToEventLog\WritingDataToEventLog.csproj", "{9A32F19F-33E3-49CB-82B8-FF4BE1E40E89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WritingDataToEventLog", "WritingDataToEventLog\WritingDataToEventLog.csproj", "{9A32F19F-33E3-49CB-82B8-FF4BE1E40E89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingDataFromEventLog.", "ReadingDataFromEventLog\ReadingDataFromEventLog..csproj", "{FCF8C7E1-5FA0-40DE-902C-EE96D92EAAFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadingDataFromEventLog.", "ReadingDataFromEventLog\ReadingDataFromEventLog..csproj", "{FCF8C7E1-5FA0-40DE-902C-EE96D92EAAFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WritingDataToEventLog2", "WritingDataToEventLog2\WritingDataToEventLog2.csproj", "{EA5A33FD-9309-4A21-9972-D7432C8A6E39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WritingDataToEventLog2", "WritingDataToEventLog2\WritingDataToEventLog2.csproj", "{EA5A33FD-9309-4A21-9972-D7432C8A6E39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingStopWatchClass", "UsingStopWatchClass\UsingStopWatchClass.csproj", "{A86361E9-58E3-4055-8742-3BDFD7D67BB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingStopWatchClass", "UsingStopWatchClass\UsingStopWatchClass.csproj", "{A86361E9-58E3-4055-8742-3BDFD7D67BB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingFromPerformanceCounter", "ReadingFromPerformanceCounter\ReadingFromPerformanceCounter.csproj", "{00F8198A-5563-4EA1-835A-66696290B65C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadingFromPerformanceCounter", "ReadingFromPerformanceCounter\ReadingFromPerformanceCounter.csproj", "{00F8198A-5563-4EA1-835A-66696290B65C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingFromPerformanceCounter2", "ReadingFromPerformanceCounter2\ReadingFromPerformanceCounter2.csproj", "{DACC8D6D-2ABE-432E-B9B0-8CB8848F0159}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadingFromPerformanceCounter2", "ReadingFromPerformanceCounter2\ReadingFromPerformanceCounter2.csproj", "{DACC8D6D-2ABE-432E-B9B0-8CB8848F0159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkResolved", "HomeworkResolved\HomeworkResolved.csproj", "{308B3F9F-A582-4B21-9890-CDDE5DB7AB10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{DACC8D6D-2ABE-432E-B9B0-8CB8848F0159}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DACC8D6D-2ABE-432E-B9B0-8CB8848F0159}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DACC8D6D-2ABE-432E-B9B0-8CB8848F0159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{308B3F9F-A582-4B21-9890-CDDE5DB7AB10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{308B3F9F-A582-4B21-9890-CDDE5DB7AB10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{308B3F9F-A582-4B21-9890-CDDE5DB7AB10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{308B3F9F-A582-4B21-9890-CDDE5DB7AB10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

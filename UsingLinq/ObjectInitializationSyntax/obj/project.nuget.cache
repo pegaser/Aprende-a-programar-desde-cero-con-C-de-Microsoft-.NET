@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "78pm3HtvzBZH3UAiLeafTdEGYrFXSA0dJDAq0hrVCW75zlk/B+swh6N0H958gVS3rEyM9u0VREl9TTx8WRwkkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\UsingLinq\\ObjectInitializationSyntax\\ObjectInitializationSyntax.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spere\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\spere\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\spere\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\spere\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
