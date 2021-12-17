@@ -1,5 +1,4 @@
-﻿
-namespace MyWinFormsApp
+﻿namespace MyWinFormsApp
 {
     partial class Form1
     {
@@ -38,4 +37,3 @@ namespace MyWinFormsApp
         #endregion
     }
 }
-

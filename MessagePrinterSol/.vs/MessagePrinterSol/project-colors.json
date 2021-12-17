@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e297e9a5-5c31-4cdd-97e2-c8f363324ce0": {
+      "ProjectGuid": "e297e9a5-5c31-4cdd-97e2-c8f363324ce0",
+      "DisplayName": "MessagePrinter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

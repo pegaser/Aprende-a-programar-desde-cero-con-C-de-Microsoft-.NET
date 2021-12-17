@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5af0c737-34b9-46cc-b5cb-44a377605bb5": {
+      "ProjectGuid": "5af0c737-34b9-46cc-b5cb-44a377605bb5",
+      "DisplayName": "CircleAreaCalculator",
+      "ColorIndex": 0
+    },
+    "f4afbf92-6d23-4c71-b8cd-ef909200ec0c": {
+      "ProjectGuid": "f4afbf92-6d23-4c71-b8cd-ef909200ec0c",
+      "DisplayName": "HomeworkSection3",
+      "ColorIndex": 1
+    },
+    "ad214b98-4f67-41dd-bfdb-2688e0d0b72a": {
+      "ProjectGuid": "ad214b98-4f67-41dd-bfdb-2688e0d0b72a",
+      "DisplayName": "HomeworkSection3Resolved",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
