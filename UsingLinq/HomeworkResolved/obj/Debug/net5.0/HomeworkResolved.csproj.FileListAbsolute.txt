@@ -25,7 +25,6 @@ C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.N
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\HomeworkResolved\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\HomeworkResolved\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\HomeworkResolved\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\HomeworkResolved\obj\Debug\net5.0\HomeworkResolved.csproj.AssemblyReference.cache
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\HomeworkResolved\obj\Debug\net5.0\HomeworkResolved.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\HomeworkResolved\obj\Debug\net5.0\HomeworkResolved.AssemblyInfoInputs.cache
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\HomeworkResolved\obj\Debug\net5.0\HomeworkResolved.AssemblyInfo.cs

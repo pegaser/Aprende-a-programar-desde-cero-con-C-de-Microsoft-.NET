@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AssemblyExample/1.0.0": {
+        "dependencies": {
+          "SigningAssemblies": "1.0.0"
+        },
+        "runtime": {
+          "AssemblyExample.dll": {}
+        }
+      },
+      "SigningAssemblies/1.0.0": {
+        "runtime": {
+          "SigningAssemblies.dll": {}
+        }
+      },
+      "RegularAssembly/1.0.0.0": {
+        "runtime": {
+          "RegularAssembly.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssemblyExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SigningAssemblies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RegularAssembly/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

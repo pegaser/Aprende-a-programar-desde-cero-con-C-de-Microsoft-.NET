@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a30fb0a6-dc25-4a71-bb45-d39fc3c8a452": {
+      "ProjectGuid": "a30fb0a6-dc25-4a71-bb45-d39fc3c8a452",
+      "DisplayName": "Homework_B",
+      "ColorIndex": 0
+    },
+    "c00ad8f8-b6d2-403c-86cf-b5616c59edee": {
+      "ProjectGuid": "c00ad8f8-b6d2-403c-86cf-b5616c59edee",
+      "DisplayName": "ExportingPublicKey",
+      "ColorIndex": 1
+    },
+    "c7a71597-042e-4d8c-a6e2-86b82336f077": {
+      "ProjectGuid": "c7a71597-042e-4d8c-a6e2-86b82336f077",
+      "DisplayName": "Homework_A",
+      "ColorIndex": 2
+    },
+    "95fbe3bf-75d3-4785-8878-58ad1477d3d1": {
+      "ProjectGuid": "95fbe3bf-75d3-4785-8878-58ad1477d3d1",
+      "DisplayName": "Homework_A_Resoved",
+      "ColorIndex": 3
+    },
+    "9359f2fe-855f-473a-a1bc-a7bc43d20cee": {
+      "ProjectGuid": "9359f2fe-855f-473a-a1bc-a7bc43d20cee",
+      "DisplayName": "Homework_B_Resolved",
+      "ColorIndex": 4
+    },
+    "6972dec7-18a6-4b83-97fc-90113018403d": {
+      "ProjectGuid": "6972dec7-18a6-4b83-97fc-90113018403d",
+      "DisplayName": "ManagingCertificates",
+      "ColorIndex": 5
+    },
+    "becc5229-5c82-4bd6-acb0-2081b9c652ac": {
+      "ProjectGuid": "becc5229-5c82-4bd6-acb0-2081b9c652ac",
+      "DisplayName": "SecuringStringData",
+      "ColorIndex": 6
+    },
+    "af17d904-067a-4d4d-9f9f-0862ec0f8cca": {
+      "ProjectGuid": "af17d904-067a-4d4d-9f9f-0862ec0f8cca",
+      "DisplayName": "UseSymmetricEncryption",
+      "ColorIndex": 7
+    },
+    "4380d50f-db59-40cf-ada0-058d482a2256": {
+      "ProjectGuid": "4380d50f-db59-40cf-ada0-058d482a2256",
+      "DisplayName": "UsingHash",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

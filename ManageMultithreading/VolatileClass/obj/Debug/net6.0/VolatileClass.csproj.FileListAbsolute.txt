@@ -1,0 +1,4 @@
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ManageMultithreading\VolatileClass\obj\Debug\net6.0\VolatileClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ManageMultithreading\VolatileClass\obj\Debug\net6.0\VolatileClass.AssemblyInfoInputs.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ManageMultithreading\VolatileClass\obj\Debug\net6.0\VolatileClass.AssemblyInfo.cs
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ManageMultithreading\VolatileClass\obj\Debug\net6.0\VolatileClass.csproj.CoreCompileInputs.cache

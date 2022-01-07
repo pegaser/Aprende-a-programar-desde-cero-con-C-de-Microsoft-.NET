@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "911c718c-5aba-48cd-82f7-23e0f1f1c266": {
+      "ProjectGuid": "911c718c-5aba-48cd-82f7-23e0f1f1c266",
+      "DisplayName": "BuildConfigurations",
+      "ColorIndex": 0
+    },
+    "f47f0712-4abd-4a3e-89e4-03c76e06d9a8": {
+      "ProjectGuid": "f47f0712-4abd-4a3e-89e4-03c76e06d9a8",
+      "DisplayName": "CompilerDirectives",
+      "ColorIndex": 1
+    },
+    "9dac156b-b272-4b6c-82e3-58f1e1cb029e": {
+      "ProjectGuid": "9dac156b-b272-4b6c-82e3-58f1e1cb029e",
+      "DisplayName": "Homework",
+      "ColorIndex": 2
+    },
+    "fed414fe-a65d-469b-8c55-9ed678bcf487": {
+      "ProjectGuid": "fed414fe-a65d-469b-8c55-9ed678bcf487",
+      "DisplayName": "PdbFiles",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

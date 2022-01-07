@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d58f8572-c608-4288-b633-f2b90c0c1ed2": {
+      "ProjectGuid": "d58f8572-c608-4288-b633-f2b90c0c1ed2",
+      "DisplayName": "ApplyingAttribute",
+      "ColorIndex": 0
+    },
+    "fc93cc27-df8e-4d94-8041-eb27d366aa7a": {
+      "ProjectGuid": "fc93cc27-df8e-4d94-8041-eb27d366aa7a",
+      "DisplayName": "AttributesExercise",
+      "ColorIndex": 1
+    },
+    "5c7c76b0-e6bb-4c62-b2b4-11fe801fd68b": {
+      "ProjectGuid": "5c7c76b0-e6bb-4c62-b2b4-11fe801fd68b",
+      "DisplayName": "BasicExampleReflection",
+      "ColorIndex": 2
+    },
+    "2333a274-bd25-4b37-89be-01cc622426ac": {
+      "ProjectGuid": "2333a274-bd25-4b37-89be-01cc622426ac",
+      "DisplayName": "CodeDomExample",
+      "ColorIndex": 3
+    },
+    "433d596d-66a1-43ae-90d4-4c6da4a5e1f6": {
+      "ProjectGuid": "433d596d-66a1-43ae-90d4-4c6da4a5e1f6",
+      "DisplayName": "CreatingCustomAttribute",
+      "ColorIndex": 4
+    },
+    "841da990-c3c1-4f8e-8c6d-901c0143b437": {
+      "ProjectGuid": "841da990-c3c1-4f8e-8c6d-901c0143b437",
+      "DisplayName": "DefiningTargets",
+      "ColorIndex": 5
+    },
+    "25994b72-8cc4-4a9d-9e7d-33fd45be6071": {
+      "ProjectGuid": "25994b72-8cc4-4a9d-9e7d-33fd45be6071",
+      "DisplayName": "ExecutingMethod",
+      "ColorIndex": 6
+    },
+    "265db5c0-b1f9-4ea3-ad51-4a432aeee29d": {
+      "ProjectGuid": "265db5c0-b1f9-4ea3-ad51-4a432aeee29d",
+      "DisplayName": "PlugInExample",
+      "ColorIndex": 7
+    },
+    "1a2576f1-a7e1-4c0b-95e4-ec573c8d2820": {
+      "ProjectGuid": "1a2576f1-a7e1-4c0b-95e4-ec573c8d2820",
+      "DisplayName": "PlugInExampleApp",
+      "ColorIndex": 8
+    },
+    "2023fd30-91fd-4315-9439-3dfae21eca69": {
+      "ProjectGuid": "2023fd30-91fd-4315-9439-3dfae21eca69",
+      "DisplayName": "UsingCategoryAttribute",
+      "ColorIndex": 9
+    },
+    "ee659186-6fbb-478e-9f55-cbce97ee61ad": {
+      "ProjectGuid": "ee659186-6fbb-478e-9f55-cbce97ee61ad",
+      "DisplayName": "UsingMultipleAttributes",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2db954f-a50b-493e-8a94-ef04d9c01bc0": {
+      "ProjectGuid": "a2db954f-a50b-493e-8a94-ef04d9c01bc0",
+      "DisplayName": "UsingBlockingCollection",
+      "ColorIndex": 0
+    },
+    "1d4ecde1-483f-450e-8eef-275be220a7a7": {
+      "ProjectGuid": "1d4ecde1-483f-450e-8eef-275be220a7a7",
+      "DisplayName": "UsingConcurrentBag",
+      "ColorIndex": 1
+    },
+    "89a70d47-ef28-411f-90d1-f279decf981e": {
+      "ProjectGuid": "89a70d47-ef28-411f-90d1-f279decf981e",
+      "DisplayName": "UsingConcurrentDictionary",
+      "ColorIndex": 2
+    },
+    "cba138ab-0c40-4047-ba77-e540ac27321e": {
+      "ProjectGuid": "cba138ab-0c40-4047-ba77-e540ac27321e",
+      "DisplayName": "UsingConcurrentQueue",
+      "ColorIndex": 3
+    },
+    "fe123361-c888-4c4c-98af-0ed9d3ee1cc1": {
+      "ProjectGuid": "fe123361-c888-4c4c-98af-0ed9d3ee1cc1",
+      "DisplayName": "UsingConcurrentStack",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

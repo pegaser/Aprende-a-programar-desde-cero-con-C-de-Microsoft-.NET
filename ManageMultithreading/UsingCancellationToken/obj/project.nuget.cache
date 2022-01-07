@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4kf3qZotVK/H6SCP2d/seByqF+NJQj0348+zLgvbdW8N8oQbvKk6Yygv+viNyqSk/dMeKrmFgYosZ+xxedHB2Q==",
+  "dgSpecHash": "4b/nzP6M5az+2xBctQx75cVbmQHWyTPeDHmNp2nmqxSK4VKsm1HmUC/hhPXyj4Iws1lHMSresaco2S64+pfFMg==",
   "success": true,
   "projectFilePath": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\ManageMultithreading\\UsingCancellationToken\\UsingCancellationToken.csproj",
   "expectedPackageFiles": [],

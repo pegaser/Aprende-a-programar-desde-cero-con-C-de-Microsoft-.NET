@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ee961e22-881b-4e4b-8a86-3eb30f548fe5": {
+      "ProjectGuid": "ee961e22-881b-4e4b-8a86-3eb30f548fe5",
+      "DisplayName": "ExtensionMethodsAnonymousTypes",
+      "ColorIndex": 0
+    },
+    "659624a8-21c8-4b29-aeac-1fd87443a605": {
+      "ProjectGuid": "659624a8-21c8-4b29-aeac-1fd87443a605",
+      "DisplayName": "Homework",
+      "ColorIndex": 1
+    },
+    "a3b0c450-636c-4a50-b9ba-e115fe7adf21": {
+      "ProjectGuid": "a3b0c450-636c-4a50-b9ba-e115fe7adf21",
+      "DisplayName": "HomeworkResolved",
+      "ColorIndex": 2
+    },
+    "2a53179a-5fe2-4004-a69a-3dec6254e9b8": {
+      "ProjectGuid": "2a53179a-5fe2-4004-a69a-3dec6254e9b8",
+      "DisplayName": "HowDoesLinqWorks",
+      "ColorIndex": 3
+    },
+    "45a73fcd-cb37-4f0d-9abd-5315e908fb63": {
+      "ProjectGuid": "45a73fcd-cb37-4f0d-9abd-5315e908fb63",
+      "DisplayName": "ImplicitTypedVariable",
+      "ColorIndex": 4
+    },
+    "269ef953-a737-4652-93aa-e194bc79a466": {
+      "ProjectGuid": "269ef953-a737-4652-93aa-e194bc79a466",
+      "DisplayName": "LambdaExpressions",
+      "ColorIndex": 5
+    },
+    "b00ea387-91f6-4da2-8a15-fcc873327fc1": {
+      "ProjectGuid": "b00ea387-91f6-4da2-8a15-fcc873327fc1",
+      "DisplayName": "LinqToXml",
+      "ColorIndex": 6
+    },
+    "ec51b371-95ef-4505-a3c9-c88abe861952": {
+      "ProjectGuid": "ec51b371-95ef-4505-a3c9-c88abe861952",
+      "DisplayName": "ObjectInitializationSyntax",
+      "ColorIndex": 7
+    },
+    "af6e2f81-8616-41f7-b495-ac7b67b36c39": {
+      "ProjectGuid": "af6e2f81-8616-41f7-b495-ac7b67b36c39",
+      "DisplayName": "UsingLinqQuery",
+      "ColorIndex": 8
+    },
+    "edff923e-0048-4f3d-957e-54d9726d47de": {
+      "ProjectGuid": "edff923e-0048-4f3d-957e-54d9726d47de",
+      "DisplayName": "UsingLinqQuery2",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d05dccd1-88a8-4ccb-a249-7a7f9a5fa2bb": {
+      "ProjectGuid": "d05dccd1-88a8-4ccb-a249-7a7f9a5fa2bb",
+      "DisplayName": "HomeworkResolved",
+      "ColorIndex": 0
+    },
+    "c4b464f9-d479-4d93-96e8-2490a18032cb": {
+      "ProjectGuid": "c4b464f9-d479-4d93-96e8-2490a18032cb",
+      "DisplayName": "ValidatingApplicationInputs",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

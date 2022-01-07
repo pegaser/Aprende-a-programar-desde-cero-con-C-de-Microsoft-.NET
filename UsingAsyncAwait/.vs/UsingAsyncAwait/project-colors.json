@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6617f315-b8e9-46bf-849a-32fabe2c9877": {
+      "ProjectGuid": "6617f315-b8e9-46bf-849a-32fabe2c9877",
+      "DisplayName": "ScalabilityVersusResponsiveness",
+      "ColorIndex": 0
+    },
+    "8167eab1-f8d6-4b26-af92-62d10d5c0791": {
+      "ProjectGuid": "8167eab1-f8d6-4b26-af92-62d10d5c0791",
+      "DisplayName": "UsingAsyncAwait",
+      "ColorIndex": 1
+    },
+    "2d9d2939-5abc-41c7-ad8c-2407bef84ede": {
+      "ProjectGuid": "2d9d2939-5abc-41c7-ad8c-2407bef84ede",
+      "DisplayName": "UsingAsyncAwaitExercise",
+      "ColorIndex": 2
+    },
+    "0be3adcb-c28e-4833-bdf0-bf64331828ff": {
+      "ProjectGuid": "0be3adcb-c28e-4833-bdf0-bf64331828ff",
+      "DisplayName": "UsingConfigureAwait",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

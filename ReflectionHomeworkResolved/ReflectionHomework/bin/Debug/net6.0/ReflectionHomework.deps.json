@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ReflectionHomework/1.0.0": {
+        "dependencies": {
+          "MyClass": "1.0.0"
+        },
+        "runtime": {
+          "ReflectionHomework.dll": {}
+        }
+      },
+      "MyClass/1.0.0": {
+        "runtime": {
+          "MyClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReflectionHomework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

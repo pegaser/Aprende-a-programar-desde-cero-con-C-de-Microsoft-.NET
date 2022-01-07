@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e183d88b-25a5-479a-8c09-64533599dc2a": {
+      "ProjectGuid": "e183d88b-25a5-479a-8c09-64533599dc2a",
+      "DisplayName": "ConfiguringTraceListener",
+      "ColorIndex": 0
+    },
+    "308b3f9f-a582-4b21-9890-cdde5db7ab10": {
+      "ProjectGuid": "308b3f9f-a582-4b21-9890-cdde5db7ab10",
+      "DisplayName": "HomeworkResolved",
+      "ColorIndex": 1
+    },
+    "fcf8c7e1-5fa0-40de-902c-ee96d92eaafb": {
+      "ProjectGuid": "fcf8c7e1-5fa0-40de-902c-ee96d92eaafb",
+      "DisplayName": "ReadingDataFromEventLog.",
+      "ColorIndex": 2
+    },
+    "00f8198a-5563-4ea1-835a-66696290b65c": {
+      "ProjectGuid": "00f8198a-5563-4ea1-835a-66696290b65c",
+      "DisplayName": "ReadingFromPerformanceCounter",
+      "ColorIndex": 3
+    },
+    "dacc8d6d-2abe-432e-b9b0-8cb8848f0159": {
+      "ProjectGuid": "dacc8d6d-2abe-432e-b9b0-8cb8848f0159",
+      "DisplayName": "ReadingFromPerformanceCounter2",
+      "ColorIndex": 4
+    },
+    "57e4cb6f-4a81-4984-b9b3-f7f38eaa35b8": {
+      "ProjectGuid": "57e4cb6f-4a81-4984-b9b3-f7f38eaa35b8",
+      "DisplayName": "UsingDebugClass",
+      "ColorIndex": 5
+    },
+    "a86361e9-58e3-4055-8742-3bdfd7d67bb2": {
+      "ProjectGuid": "a86361e9-58e3-4055-8742-3bdfd7d67bb2",
+      "DisplayName": "UsingStopWatchClass",
+      "ColorIndex": 6
+    },
+    "90796fdb-5aeb-4880-bd56-f0060dae9f4f": {
+      "ProjectGuid": "90796fdb-5aeb-4880-bd56-f0060dae9f4f",
+      "DisplayName": "UsingTraceSourceClass",
+      "ColorIndex": 7
+    },
+    "9a32f19f-33e3-49cb-82b8-ff4be1e40e89": {
+      "ProjectGuid": "9a32f19f-33e3-49cb-82b8-ff4be1e40e89",
+      "DisplayName": "WritingDataToEventLog",
+      "ColorIndex": 8
+    },
+    "ea5a33fd-9309-4a21-9972-d7432c8a6e39": {
+      "ProjectGuid": "ea5a33fd-9309-4a21-9972-d7432c8a6e39",
+      "DisplayName": "WritingDataToEventLog2",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

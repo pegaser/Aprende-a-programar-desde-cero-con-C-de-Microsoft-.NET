@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "69f9f4fd-2e53-49fc-a304-b776195da4d3": {
+      "ProjectGuid": "69f9f4fd-2e53-49fc-a304-b776195da4d3",
+      "DisplayName": "Homework",
+      "ColorIndex": 0
+    },
+    "7b2bd9cf-d86f-4212-8514-af7ae108540c": {
+      "ProjectGuid": "7b2bd9cf-d86f-4212-8514-af7ae108540c",
+      "DisplayName": "BuildingDirectoryTree",
+      "ColorIndex": 1
+    },
+    "5ad129c7-9d70-4448-9411-7c3810a83ee0": {
+      "ProjectGuid": "5ad129c7-9d70-4448-9411-7c3810a83ee0",
+      "DisplayName": "CreateUseFileStream",
+      "ColorIndex": 2
+    },
+    "3f43b6ee-17c8-4e76-8342-855159a5546b": {
+      "ProjectGuid": "3f43b6ee-17c8-4e76-8342-855159a5546b",
+      "DisplayName": "CreatingNewDirectory",
+      "ColorIndex": 3
+    },
+    "e40093a3-eef0-4344-a809-9a81e67bd150": {
+      "ProjectGuid": "e40093a3-eef0-4344-a809-9a81e67bd150",
+      "DisplayName": "DeletingFile",
+      "ColorIndex": 4
+    },
+    "b71161c7-e5f6-4ae1-a9e8-fd0ad860f5e7": {
+      "ProjectGuid": "b71161c7-e5f6-4ae1-a9e8-fd0ad860f5e7",
+      "DisplayName": "ExecutingWebRequest",
+      "ColorIndex": 5
+    },
+    "69464893-659a-46c0-957a-c04dc84d92e3": {
+      "ProjectGuid": "69464893-659a-46c0-957a-c04dc84d92e3",
+      "DisplayName": "FileSystemIsNotJustForYou",
+      "ColorIndex": 6
+    },
+    "b5df39da-0d7a-4137-9c03-7229b8664f10": {
+      "ProjectGuid": "b5df39da-0d7a-4137-9c03-7229b8664f10",
+      "DisplayName": "HomeworkResolved",
+      "ColorIndex": 7
+    },
+    "31af7438-4d10-4c3c-8be3-d447347a3240": {
+      "ProjectGuid": "31af7438-4d10-4c3c-8be3-d447347a3240",
+      "DisplayName": "ListingAllFilesInDirectory",
+      "ColorIndex": 8
+    },
+    "33a49eee-447c-48a5-93cc-9c0d0b129424": {
+      "ProjectGuid": "33a49eee-447c-48a5-93cc-9c0d0b129424",
+      "DisplayName": "ListingDriveInfo",
+      "ColorIndex": 9
+    },
+    "748aa6d8-2d9f-41f7-b822-2fb493d53e38": {
+      "ProjectGuid": "748aa6d8-2d9f-41f7-b822-2fb493d53e38",
+      "DisplayName": "MovingDirectory",
+      "ColorIndex": 10
+    },
+    "77737ddc-bdef-484a-ab50-24414967618c": {
+      "ProjectGuid": "77737ddc-bdef-484a-ab50-24414967618c",
+      "DisplayName": "SettAccessControl",
+      "ColorIndex": 11
+    },
+    "f3d4c222-0402-4717-88f5-db83c408a255": {
+      "ProjectGuid": "f3d4c222-0402-4717-88f5-db83c408a255",
+      "DisplayName": "UsingPath",
+      "ColorIndex": 12
+    },
+    "feea7b7c-2bd4-48bc-91d5-656baefdf3f8": {
+      "ProjectGuid": "feea7b7c-2bd4-48bc-91d5-656baefdf3f8",
+      "DisplayName": "WpfApp1",
+      "ColorIndex": 13
+    },
+    "ecc499e5-77b3-4a96-b0c9-91eb691b7a2c": {
+      "ProjectGuid": "ecc499e5-77b3-4a96-b0c9-91eb691b7a2c",
+      "DisplayName": "WritingAsynchronouslyToFile",
+      "ColorIndex": 14
+    }
+  },
+  "NextColorIndex": 15
+}

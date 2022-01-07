@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9ebdae83-5fc6-421d-9b46-d6351083d7de": {
+      "ProjectGuid": "9ebdae83-5fc6-421d-9b46-d6351083d7de",
+      "DisplayName": "AccessModifiers",
+      "ColorIndex": 0
+    },
+    "e9fac112-e2ee-41bb-b181-21145c496069": {
+      "ProjectGuid": "e9fac112-e2ee-41bb-b181-21145c496069",
+      "DisplayName": "SampleClassProject",
+      "ColorIndex": 1
+    },
+    "7c9489cd-85fa-4312-9e8c-d728d861a25f": {
+      "ProjectGuid": "7c9489cd-85fa-4312-9e8c-d728d861a25f",
+      "DisplayName": "SampleImplicitHeritance",
+      "ColorIndex": 2
+    },
+    "bb7d2cbf-7c98-49d8-a850-3600aa8cd23e": {
+      "ProjectGuid": "bb7d2cbf-7c98-49d8-a850-3600aa8cd23e",
+      "DisplayName": "SampleAbstract",
+      "ColorIndex": 3
+    },
+    "31bf5108-c545-4a80-9417-aa400627a171": {
+      "ProjectGuid": "31bf5108-c545-4a80-9417-aa400627a171",
+      "DisplayName": "SampleDelegate",
+      "ColorIndex": 4
+    },
+    "8b0e9391-6b25-4968-8232-15d685ccdb3b": {
+      "ProjectGuid": "8b0e9391-6b25-4968-8232-15d685ccdb3b",
+      "DisplayName": "SampleInheritance",
+      "ColorIndex": 5
+    },
+    "b8bf8a0c-9e01-4ecf-a783-2bf8b1c858b7": {
+      "ProjectGuid": "b8bf8a0c-9e01-4ecf-a783-2bf8b1c858b7",
+      "DisplayName": "SampleNestedClass",
+      "ColorIndex": 6
+    },
+    "d777a102-d632-43d9-84f2-8df183906448": {
+      "ProjectGuid": "d777a102-d632-43d9-84f2-8df183906448",
+      "DisplayName": "SamppleOveride",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

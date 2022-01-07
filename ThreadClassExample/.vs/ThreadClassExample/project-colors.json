@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dad0e567-beb9-4a5b-9685-e74c4e93feba": {
+      "ProjectGuid": "dad0e567-beb9-4a5b-9685-e74c4e93feba",
+      "DisplayName": "ThreadClassExample",
+      "ColorIndex": 0
+    },
+    "ce26f70c-3d29-4b4a-9bba-94b8dce53c35": {
+      "ProjectGuid": "ce26f70c-3d29-4b4a-9bba-94b8dce53c35",
+      "DisplayName": "ThreadClassExercise",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

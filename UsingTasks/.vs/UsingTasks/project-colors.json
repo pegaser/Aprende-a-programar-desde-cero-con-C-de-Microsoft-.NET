@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8670c02a-929f-4126-8332-f04b588e6133": {
+      "ProjectGuid": "8670c02a-929f-4126-8332-f04b588e6133",
+      "DisplayName": "UsingChildTasks",
+      "ColorIndex": 0
+    },
+    "07640f7e-87e2-4ef1-a02c-d40e1f2e98c7": {
+      "ProjectGuid": "07640f7e-87e2-4ef1-a02c-d40e1f2e98c7",
+      "DisplayName": "UsingContinuationTasks",
+      "ColorIndex": 1
+    },
+    "f7af5790-e9bf-43c5-9c3a-2f8a0ac67ad5": {
+      "ProjectGuid": "f7af5790-e9bf-43c5-9c3a-2f8a0ac67ad5",
+      "DisplayName": "UsingDifferentContinuationTasks",
+      "ColorIndex": 2
+    },
+    "6546b719-9e21-43f5-980a-1e8feb72ed61": {
+      "ProjectGuid": "6546b719-9e21-43f5-980a-1e8feb72ed61",
+      "DisplayName": "UsingGenericTask",
+      "ColorIndex": 3
+    },
+    "845584b4-749e-43d1-8a95-9db4ca6497bd": {
+      "ProjectGuid": "845584b4-749e-43d1-8a95-9db4ca6497bd",
+      "DisplayName": "UsingTaskFactory",
+      "ColorIndex": 4
+    },
+    "10afd2ba-ccbf-415f-8103-512d320a487f": {
+      "ProjectGuid": "10afd2ba-ccbf-415f-8103-512d320a487f",
+      "DisplayName": "UsingTasks",
+      "ColorIndex": 5
+    },
+    "e71d9748-7682-49c2-a39a-ea10de1f4b62": {
+      "ProjectGuid": "e71d9748-7682-49c2-a39a-ea10de1f4b62",
+      "DisplayName": "UsingWaitAll",
+      "ColorIndex": 6
+    },
+    "be9fc350-0946-4a32-8a38-9d0c93839b77": {
+      "ProjectGuid": "be9fc350-0946-4a32-8a38-9d0c93839b77",
+      "DisplayName": "UsingWaitAny",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

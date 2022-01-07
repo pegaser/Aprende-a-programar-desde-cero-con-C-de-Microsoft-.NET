@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cc1e2877-c6e6-4b95-91c9-db3545c84301": {
+      "ProjectGuid": "cc1e2877-c6e6-4b95-91c9-db3545c84301",
+      "DisplayName": "AddingSetAccessorToInterface",
+      "ColorIndex": 0
+    },
+    "a0206b38-2f2a-4a5b-a152-f26dc5d8bb35": {
+      "ProjectGuid": "a0206b38-2f2a-4a5b-a152-f26dc5d8bb35",
+      "DisplayName": "CreatingAbstractClass",
+      "ColorIndex": 1
+    },
+    "ecada647-574c-4dcb-a68f-7541249a0b2c": {
+      "ProjectGuid": "ecada647-574c-4dcb-a68f-7541249a0b2c",
+      "DisplayName": "CreatingBaseClass",
+      "ColorIndex": 2
+    },
+    "b3e09502-e796-4a0b-8fd6-dd708a706085": {
+      "ProjectGuid": "b3e09502-e796-4a0b-8fd6-dd708a706085",
+      "DisplayName": "EnumeratorForeach",
+      "ColorIndex": 3
+    },
+    "82c66381-e5f1-4a0f-80e4-c3f87f0eafd0": {
+      "ProjectGuid": "82c66381-e5f1-4a0f-80e4-c3f87f0eafd0",
+      "DisplayName": "GenericInterface",
+      "ColorIndex": 4
+    },
+    "a724633c-c3c1-4c77-b910-92ff3b895438": {
+      "ProjectGuid": "a724633c-c3c1-4c77-b910-92ff3b895438",
+      "DisplayName": "ImplementingIComparable",
+      "ColorIndex": 5
+    },
+    "79eec80b-7248-4855-8730-33ff5329a8f0": {
+      "ProjectGuid": "79eec80b-7248-4855-8730-33ff5329a8f0",
+      "DisplayName": "ImplementingIEnumerable",
+      "ColorIndex": 6
+    },
+    "81ec0516-85b2-46c3-b08e-daa5d938a054": {
+      "ProjectGuid": "81ec0516-85b2-46c3-b08e-daa5d938a054",
+      "DisplayName": "ImplementingInterface",
+      "ColorIndex": 7
+    },
+    "d4f936cc-b967-434a-8660-7af9986866ff": {
+      "ProjectGuid": "d4f936cc-b967-434a-8660-7af9986866ff",
+      "DisplayName": "InstantiatingInterface",
+      "ColorIndex": 8
+    },
+    "5ffe496c-1d06-418e-850b-aa2c91044d33": {
+      "ProjectGuid": "5ffe496c-1d06-418e-850b-aa2c91044d33",
+      "DisplayName": "InterfacesAndBaseClassesExercise",
+      "ColorIndex": 9
+    },
+    "aa88fc9a-c52c-478f-97e8-118b60c93459": {
+      "ProjectGuid": "aa88fc9a-c52c-478f-97e8-118b60c93459",
+      "DisplayName": "InterfacesExercise",
+      "ColorIndex": 10
+    },
+    "c51cc3ea-7a05-4848-92c6-25c23a7c21c6": {
+      "ProjectGuid": "c51cc3ea-7a05-4848-92c6-25c23a7c21c6",
+      "DisplayName": "RectangleClassWithAreaCalculation",
+      "ColorIndex": 11
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 12
+}

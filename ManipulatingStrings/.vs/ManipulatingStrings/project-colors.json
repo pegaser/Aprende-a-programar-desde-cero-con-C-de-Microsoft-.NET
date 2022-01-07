@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2cc8c54e-f41e-4776-a5b4-2be8b9783342": {
+      "ProjectGuid": "2cc8c54e-f41e-4776-a5b4-2be8b9783342",
+      "DisplayName": "ChangingCharStringBuilder",
+      "ColorIndex": 0
+    },
+    "4091d4eb-d958-4caa-a31c-7e2b79db6eb8": {
+      "ProjectGuid": "4091d4eb-d958-4caa-a31c-7e2b79db6eb8",
+      "DisplayName": "CreatingLargeNumberOfStrings",
+      "ColorIndex": 1
+    },
+    "a09856fe-5b17-4574-93a1-710f45339aed": {
+      "ProjectGuid": "a09856fe-5b17-4574-93a1-710f45339aed",
+      "DisplayName": "FormattingStrings",
+      "ColorIndex": 2
+    },
+    "2f86d074-f6ca-40a0-a769-78706ae55b19": {
+      "ProjectGuid": "2f86d074-f6ca-40a0-a769-78706ae55b19",
+      "DisplayName": "FormattingStringsExercise",
+      "ColorIndex": 3
+    },
+    "4aaf2a7f-54b6-4718-9376-3ee4163c29bb": {
+      "ProjectGuid": "4aaf2a7f-54b6-4718-9376-3ee4163c29bb",
+      "DisplayName": "HomeworkResolved",
+      "ColorIndex": 4
+    },
+    "d292b795-b7b2-400a-80dd-e1eb7b35a68c": {
+      "ProjectGuid": "d292b795-b7b2-400a-80dd-e1eb7b35a68c",
+      "DisplayName": "SearchingForAndEnumStrings",
+      "ColorIndex": 5
+    },
+    "3360f4a8-8e49-4a6b-8ac6-1eed72d50229": {
+      "ProjectGuid": "3360f4a8-8e49-4a6b-8ac6-1eed72d50229",
+      "DisplayName": "UsingStringBuilderInLoop",
+      "ColorIndex": 6
+    },
+    "40e8d573-a0cd-4867-8816-9849e03976e1": {
+      "ProjectGuid": "40e8d573-a0cd-4867-8816-9849e03976e1",
+      "DisplayName": "UsingStringWriterAsOutput",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

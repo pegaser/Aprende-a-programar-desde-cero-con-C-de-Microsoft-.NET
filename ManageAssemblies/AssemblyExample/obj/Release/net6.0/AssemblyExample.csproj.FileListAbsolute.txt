@@ -1,0 +1,5 @@
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ManageAssemblies\AssemblyExample\obj\Release\net6.0\AssemblyExample.csproj.AssemblyReference.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ManageAssemblies\AssemblyExample\obj\Release\net6.0\AssemblyExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ManageAssemblies\AssemblyExample\obj\Release\net6.0\AssemblyExample.AssemblyInfoInputs.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ManageAssemblies\AssemblyExample\obj\Release\net6.0\AssemblyExample.AssemblyInfo.cs
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ManageAssemblies\AssemblyExample\obj\Release\net6.0\AssemblyExample.csproj.CoreCompileInputs.cache

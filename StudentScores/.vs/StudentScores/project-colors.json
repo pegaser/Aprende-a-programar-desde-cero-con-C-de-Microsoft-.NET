@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cb880e6c-e97f-48c3-80ee-e7dd7793a175": {
+      "ProjectGuid": "cb880e6c-e97f-48c3-80ee-e7dd7793a175",
+      "DisplayName": "StudentScores",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -2,11 +2,10 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>MySecretKeys.snk</AssemblyOriginatorKeyFile>
     <DelaySign>false</DelaySign>
-    <ApplicationManifest>app.manifest</ApplicationManifest>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
@@ -15,7 +14,7 @@
 
   <ItemGroup>
     <Reference Include="RegularAssembly">
-      <HintPath>..\RegularAssemby\bin\Debug\net5.0\RegularAssembly.dll</HintPath>
+      <HintPath>..\RegularAssemby\bin\Debug\net6.0\RegularAssembly.dll</HintPath>
     </Reference>
   </ItemGroup>
 

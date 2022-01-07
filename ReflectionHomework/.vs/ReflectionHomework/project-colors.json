@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "19df9b74-e103-40eb-8771-9780d59cb462": {
+      "ProjectGuid": "19df9b74-e103-40eb-8771-9780d59cb462",
+      "DisplayName": "MyClassLibrary",
+      "ColorIndex": 0
+    },
+    "3fe7f16b-10f5-47ea-a261-a5df7beb420a": {
+      "ProjectGuid": "3fe7f16b-10f5-47ea-a261-a5df7beb420a",
+      "DisplayName": "ReflectionHomework",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

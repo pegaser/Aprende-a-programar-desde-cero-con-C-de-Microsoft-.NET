@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec8e9b26-fde7-410c-a4c5-888416672757": {
+      "ProjectGuid": "ec8e9b26-fde7-410c-a4c5-888416672757",
+      "DisplayName": "BinarySerialization",
+      "ColorIndex": 0
+    },
+    "75bbdcb5-0b41-4107-a993-ce7ca52e42cb": {
+      "ProjectGuid": "75bbdcb5-0b41-4107-a993-ce7ca52e42cb",
+      "DisplayName": "Homework",
+      "ColorIndex": 1
+    },
+    "16479ca7-1a32-4853-b8a6-b9e6341fecd1": {
+      "ProjectGuid": "16479ca7-1a32-4853-b8a6-b9e6341fecd1",
+      "DisplayName": "HomeworkResolved",
+      "ColorIndex": 2
+    },
+    "5cb64704-a812-4934-ab5b-66992650730c": {
+      "ProjectGuid": "5cb64704-a812-4934-ab5b-66992650730c",
+      "DisplayName": "HomeworkResolvedClient",
+      "ColorIndex": 3
+    },
+    "e3eafa6c-d503-4399-b399-9dba6f02450c": {
+      "ProjectGuid": "e3eafa6c-d503-4399-b399-9dba6f02450c",
+      "DisplayName": "UsingDataContract",
+      "ColorIndex": 4
+    },
+    "cafe26f9-1afc-4d50-b9c6-9759f09198cf": {
+      "ProjectGuid": "cafe26f9-1afc-4d50-b9c6-9759f09198cf",
+      "DisplayName": "UsingJsonSerializer",
+      "ColorIndex": 5
+    },
+    "fee3a582-5fce-4425-957c-65b04ef54aa7": {
+      "ProjectGuid": "fee3a582-5fce-4425-957c-65b04ef54aa7",
+      "DisplayName": "UsingXmlSerializer",
+      "ColorIndex": 6
+    },
+    "8c32541f-0df5-4fce-b41f-c7b2ebd454d9": {
+      "ProjectGuid": "8c32541f-0df5-4fce-b41f-c7b2ebd454d9",
+      "DisplayName": "UsingXmlSerielizer2",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

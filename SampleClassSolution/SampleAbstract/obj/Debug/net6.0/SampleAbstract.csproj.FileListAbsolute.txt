@@ -1,0 +1,2 @@
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\SampleClassSolution\SampleAbstract\obj\Debug\net6.0\SampleAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\SampleClassSolution\SampleAbstract\obj\Debug\net6.0\SampleAbstract.csproj.CoreCompileInputs.cache

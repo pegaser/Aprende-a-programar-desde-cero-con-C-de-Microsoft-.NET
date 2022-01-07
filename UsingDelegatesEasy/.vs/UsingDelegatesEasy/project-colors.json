@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bd9313c0-fc41-4b80-ba8c-f2f1768d49a7": {
+      "ProjectGuid": "bd9313c0-fc41-4b80-ba8c-f2f1768d49a7",
+      "DisplayName": "AnonymousDelegate",
+      "ColorIndex": 0
+    },
+    "6842c3d8-3297-4162-a1f3-1bd384363cbb": {
+      "ProjectGuid": "6842c3d8-3297-4162-a1f3-1bd384363cbb",
+      "DisplayName": "UsingDelegatesEasy",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

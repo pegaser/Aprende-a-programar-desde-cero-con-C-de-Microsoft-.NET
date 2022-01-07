@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "54013dee-37bd-463b-8955-b37b6aaa499b": {
+      "ProjectGuid": "54013dee-37bd-463b-8955-b37b6aaa499b",
+      "DisplayName": "UsingParallelBreak",
+      "ColorIndex": 0
+    },
+    "9ee28d5c-4391-445a-aeef-5916f483f0a2": {
+      "ProjectGuid": "9ee28d5c-4391-445a-aeef-5916f483f0a2",
+      "DisplayName": "UsingParallelClass",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

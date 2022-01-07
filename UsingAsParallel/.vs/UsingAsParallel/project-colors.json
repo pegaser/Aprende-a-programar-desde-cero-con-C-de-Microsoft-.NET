@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db2f745b-b64f-4966-b84f-a68d13e48273": {
+      "ProjectGuid": "db2f745b-b64f-4966-b84f-a68d13e48273",
+      "DisplayName": "CatchingAggregateException",
+      "ColorIndex": 0
+    },
+    "b6247bff-c82d-4c04-8ecb-98e1a988830d": {
+      "ProjectGuid": "b6247bff-c82d-4c04-8ecb-98e1a988830d",
+      "DisplayName": "OrderedParallelQuery",
+      "ColorIndex": 1
+    },
+    "fe548edc-7c77-4ca2-a6f2-778cc86adf9d": {
+      "ProjectGuid": "fe548edc-7c77-4ca2-a6f2-778cc86adf9d",
+      "DisplayName": "ParallelQuerySequential",
+      "ColorIndex": 2
+    },
+    "18c46620-38af-4110-a7f7-c26dbdbf249b": {
+      "ProjectGuid": "18c46620-38af-4110-a7f7-c26dbdbf249b",
+      "DisplayName": "UsingAsParallel",
+      "ColorIndex": 3
+    },
+    "981158b9-f824-4510-92a5-e2a380f1af1a": {
+      "ProjectGuid": "981158b9-f824-4510-92a5-e2a380f1af1a",
+      "DisplayName": "UsingForAll",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

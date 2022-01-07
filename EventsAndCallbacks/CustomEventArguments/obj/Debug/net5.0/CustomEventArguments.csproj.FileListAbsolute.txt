@@ -5,7 +5,6 @@ C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.N
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\EventsAndCallbacks\CustomEventArguments\bin\Debug\net5.0\CustomEventArguments.dll
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\EventsAndCallbacks\CustomEventArguments\bin\Debug\net5.0\ref\CustomEventArguments.dll
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\EventsAndCallbacks\CustomEventArguments\bin\Debug\net5.0\CustomEventArguments.pdb
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\EventsAndCallbacks\CustomEventArguments\obj\Debug\net5.0\CustomEventArguments.csprojAssemblyReference.cache
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\EventsAndCallbacks\CustomEventArguments\obj\Debug\net5.0\CustomEventArguments.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\EventsAndCallbacks\CustomEventArguments\obj\Debug\net5.0\CustomEventArguments.AssemblyInfoInputs.cache
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\EventsAndCallbacks\CustomEventArguments\obj\Debug\net5.0\CustomEventArguments.AssemblyInfo.cs
@@ -14,3 +13,4 @@ C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.N
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\EventsAndCallbacks\CustomEventArguments\obj\Debug\net5.0\ref\CustomEventArguments.dll
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\EventsAndCallbacks\CustomEventArguments\obj\Debug\net5.0\CustomEventArguments.pdb
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\EventsAndCallbacks\CustomEventArguments\obj\Debug\net5.0\CustomEventArguments.genruntimeconfig.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\EventsAndCallbacks\CustomEventArguments\obj\Debug\net5.0\CustomEventArguments.csproj.AssemblyReference.cache

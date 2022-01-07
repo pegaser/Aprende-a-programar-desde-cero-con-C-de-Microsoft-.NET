@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StructuredProgrammingExample_Tarea/1.0.0": {
+        "runtime": {
+          "StructuredProgrammingExample_Tarea.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StructuredProgrammingExample_Tarea/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

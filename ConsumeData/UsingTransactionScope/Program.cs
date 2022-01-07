@@ -10,7 +10,7 @@ namespace UsingTransactionScope
         static void Main(string[] args)
         {
             string connectionString = ConfigurationManager.ConnectionStrings["MyConnection"].ConnectionString;
-            using (TransactionScope transactionScope = new TransactionScope(TransactionScopeOption.))
+            using (TransactionScope transactionScope = new TransactionScope(TransactionScopeOption.Required))
             {
                 using (SqlConnection connection = new SqlConnection(connectionString))
                 {

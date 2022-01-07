@@ -1,0 +1,5 @@
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ConsumeData\SqlConecctionExample\obj\Debug\net6.0\SqlConecctionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ConsumeData\SqlConecctionExample\obj\Debug\net6.0\SqlConecctionExample.AssemblyInfoInputs.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ConsumeData\SqlConecctionExample\obj\Debug\net6.0\SqlConecctionExample.AssemblyInfo.cs
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ConsumeData\SqlConecctionExample\obj\Debug\net6.0\SqlConecctionExample.csproj.CoreCompileInputs.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ConsumeData\SqlConecctionExample\obj\Debug\net6.0\SqlConecctionExample.csproj.AssemblyReference.cache

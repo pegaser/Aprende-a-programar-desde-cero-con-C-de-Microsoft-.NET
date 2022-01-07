@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6cbf3a9a-e2d4-4050-8a7b-51bf2d939e37": {
+      "ProjectGuid": "6cbf3a9a-e2d4-4050-8a7b-51bf2d939e37",
+      "DisplayName": "FileExample",
+      "ColorIndex": 0
+    },
+    "7bea5ee2-1cd3-4ee1-a086-88985a3566f4": {
+      "ProjectGuid": "7bea5ee2-1cd3-4ee1-a086-88985a3566f4",
+      "DisplayName": "Homework",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

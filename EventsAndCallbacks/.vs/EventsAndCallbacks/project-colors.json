@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e270ad41-49be-4984-9232-9e0b14a25549": {
+      "ProjectGuid": "e270ad41-49be-4984-9232-9e0b14a25549",
+      "DisplayName": "ContravarianceDelegate",
+      "ColorIndex": 0
+    },
+    "b785c187-de37-487c-9f22-c44cfcaf30e5": {
+      "ProjectGuid": "b785c187-de37-487c-9f22-c44cfcaf30e5",
+      "DisplayName": "CovarianceDelegate",
+      "ColorIndex": 1
+    },
+    "6a13545c-98ea-47e1-9313-dd4968233806": {
+      "ProjectGuid": "6a13545c-98ea-47e1-9313-dd4968233806",
+      "DisplayName": "CustomEventAccessor",
+      "ColorIndex": 2
+    },
+    "0e32a0ef-dde2-435d-bf0a-1d151ca4d444": {
+      "ProjectGuid": "0e32a0ef-dde2-435d-bf0a-1d151ca4d444",
+      "DisplayName": "CustomEventArguments",
+      "ColorIndex": 3
+    },
+    "df4b1dad-e791-4083-bd86-c47518ffe18a": {
+      "ProjectGuid": "df4b1dad-e791-4083-bd86-c47518ffe18a",
+      "DisplayName": "DelegateHomework",
+      "ColorIndex": 4
+    },
+    "f59ac21b-3e91-46bf-987e-4c736052992f": {
+      "ProjectGuid": "f59ac21b-3e91-46bf-987e-4c736052992f",
+      "DisplayName": "ExceptionRaisingEvent",
+      "ColorIndex": 5
+    },
+    "28f7aab7-c854-44f3-80f1-60e3b05345b5": {
+      "ProjectGuid": "28f7aab7-c854-44f3-80f1-60e3b05345b5",
+      "DisplayName": "ExposeAnEvent",
+      "ColorIndex": 6
+    },
+    "09f91217-06b5-4159-b911-b2c288d13a8f": {
+      "ProjectGuid": "09f91217-06b5-4159-b911-b2c288d13a8f",
+      "DisplayName": "LambdaHomework",
+      "ColorIndex": 7
+    },
+    "762bd9a3-e3e3-4917-a2bc-5f93de27d7ee": {
+      "ProjectGuid": "762bd9a3-e3e3-4917-a2bc-5f93de27d7ee",
+      "DisplayName": "ManuallyRisingEventExceptionHandling",
+      "ColorIndex": 8
+    },
+    "29dd8f01-2732-4760-81fd-869443029f7c": {
+      "ProjectGuid": "29dd8f01-2732-4760-81fd-869443029f7c",
+      "DisplayName": "MulticastDelegate",
+      "ColorIndex": 9
+    },
+    "a3b5f729-87e0-4375-b6e2-4e77031a3195": {
+      "ProjectGuid": "a3b5f729-87e0-4375-b6e2-4e77031a3195",
+      "DisplayName": "UsingActionDelegate",
+      "ColorIndex": 10
+    },
+    "73f98adc-bfee-4211-9d3f-491052bdaca9": {
+      "ProjectGuid": "73f98adc-bfee-4211-9d3f-491052bdaca9",
+      "DisplayName": "UsingDelegates",
+      "ColorIndex": 11
+    },
+    "60ca51c6-9f9e-492b-8d4e-b62776927070": {
+      "ProjectGuid": "60ca51c6-9f9e-492b-8d4e-b62776927070",
+      "DisplayName": "UsingDelegatesWithLambda",
+      "ColorIndex": 12
+    }
+  },
+  "NextColorIndex": 13
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "615e51aa-e1fd-4463-999a-d07ba457cb17": {
+      "ProjectGuid": "615e51aa-e1fd-4463-999a-d07ba457cb17",
+      "DisplayName": "AssemblyExample",
+      "ColorIndex": 0
+    },
+    "5bbeb4e7-a1b6-477f-ba2d-796e8313d012": {
+      "ProjectGuid": "5bbeb4e7-a1b6-477f-ba2d-796e8313d012",
+      "DisplayName": "RegularAssembly",
+      "ColorIndex": 1
+    },
+    "28c7ae0b-4bec-41f0-9fcd-72bdc7ba802b": {
+      "ProjectGuid": "28c7ae0b-4bec-41f0-9fcd-72bdc7ba802b",
+      "DisplayName": "SigningAssemblies",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

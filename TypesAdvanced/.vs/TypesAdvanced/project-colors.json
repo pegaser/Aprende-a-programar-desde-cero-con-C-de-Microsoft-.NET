@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "229c8aa5-d4a8-4ae0-905e-8333f7a40c27": {
+      "ProjectGuid": "229c8aa5-d4a8-4ae0-905e-8333f7a40c27",
+      "DisplayName": "CreatingCustomDynamicObject",
+      "ColorIndex": 0
+    },
+    "a0354eb7-3cbe-43fc-8a7e-d9f2b38327b2": {
+      "ProjectGuid": "a0354eb7-3cbe-43fc-8a7e-d9f2b38327b2",
+      "DisplayName": "CreatingExtensionMethod",
+      "ColorIndex": 1
+    },
+    "99795a54-9f0a-4f90-9316-108f4d1569f9": {
+      "ProjectGuid": "99795a54-9f0a-4f90-9316-108f4d1569f9",
+      "DisplayName": "ExportingDataToExcel",
+      "ColorIndex": 2
+    },
+    "8912bd72-dfaf-46bb-90bb-201d87d8efe6": {
+      "ProjectGuid": "8912bd72-dfaf-46bb-90bb-201d87d8efe6",
+      "DisplayName": "GenericNullableimplementation",
+      "ColorIndex": 3
+    },
+    "835d4be2-4496-49a5-947b-63d17b5801f8": {
+      "ProjectGuid": "835d4be2-4496-49a5-947b-63d17b5801f8",
+      "DisplayName": "Homework",
+      "ColorIndex": 4
+    },
+    "ef33c000-5f1a-430f-8986-1ee2e8248f28": {
+      "ProjectGuid": "ef33c000-5f1a-430f-8986-1ee2e8248f28",
+      "DisplayName": "Homework2",
+      "ColorIndex": 5
+    },
+    "919e8c28-de36-4b5f-a43f-cd421cce4ebb": {
+      "ProjectGuid": "919e8c28-de36-4b5f-a43f-cd421cce4ebb",
+      "DisplayName": "Homework2_Resolved",
+      "ColorIndex": 6
+    },
+    "8d89b82a-a21a-42ce-a433-c1d626ff5011": {
+      "ProjectGuid": "8d89b82a-a21a-42ce-a433-c1d626ff5011",
+      "DisplayName": "OverridingVirtualMethod",
+      "ColorIndex": 7
+    },
+    "02c1cb49-530c-4867-9f92-cc903e731470": {
+      "ProjectGuid": "02c1cb49-530c-4867-9f92-cc903e731470",
+      "DisplayName": "TypesAdvanced",
+      "ColorIndex": 8
+    },
+    "41442cc3-fff0-405d-8757-7c49c90bbbc8": {
+      "ProjectGuid": "41442cc3-fff0-405d-8757-7c49c90bbbc8",
+      "DisplayName": "UsingSealedKeyword",
+      "ColorIndex": 9
+    },
+    "0eded48f-ccc1-49eb-b845-a76eddae0a80": {
+      "ProjectGuid": "0eded48f-ccc1-49eb-b845-a76eddae0a80",
+      "DisplayName": "UsingWhereClause",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

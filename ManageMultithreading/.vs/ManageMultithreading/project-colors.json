@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "1434acd3-18c6-4477-bfe0-afb091b9a8bf": {
+      "ProjectGuid": "1434acd3-18c6-4477-bfe0-afb091b9a8bf",
+      "DisplayName": "VolatileClass",
+      "ColorIndex": 0
+    },
+    "f13da075-9e1f-4a0e-97d8-54f869785b63": {
+      "ProjectGuid": "f13da075-9e1f-4a0e-97d8-54f869785b63",
+      "DisplayName": "AccessingSharedData",
+      "ColorIndex": 1
+    },
+    "64ad690e-1a93-44ca-89bf-53311ae15316": {
+      "ProjectGuid": "64ad690e-1a93-44ca-89bf-53311ae15316",
+      "DisplayName": "CreatingDeadlock",
+      "ColorIndex": 2
+    },
+    "f9a7eeb7-6e92-4f18-beb5-eeaea7f7460d": {
+      "ProjectGuid": "f9a7eeb7-6e92-4f18-beb5-eeaea7f7460d",
+      "DisplayName": "ExchangeNnonatomicOperation",
+      "ColorIndex": 3
+    },
+    "1fa6b40b-4e63-42e9-be05-b38acd0fc5de": {
+      "ProjectGuid": "1fa6b40b-4e63-42e9-be05-b38acd0fc5de",
+      "DisplayName": "Homework",
+      "ColorIndex": 4
+    },
+    "3290e3f4-3198-4c27-b268-db7646960114": {
+      "ProjectGuid": "3290e3f4-3198-4c27-b268-db7646960114",
+      "DisplayName": "SettingTimeoutOnTask",
+      "ColorIndex": 5
+    },
+    "259805d4-8c0e-4723-88a3-89bce5face66": {
+      "ProjectGuid": "259805d4-8c0e-4723-88a3-89bce5face66",
+      "DisplayName": "ThrowingOperationCanceledException",
+      "ColorIndex": 6
+    },
+    "6def7d63-8497-419a-b035-bbbcff42291a": {
+      "ProjectGuid": "6def7d63-8497-419a-b035-bbbcff42291a",
+      "DisplayName": "UsingCancellationToken",
+      "ColorIndex": 7
+    },
+    "cd7a338f-f912-4824-81ff-48670bcd3f17": {
+      "ProjectGuid": "cd7a338f-f912-4824-81ff-48670bcd3f17",
+      "DisplayName": "UsingInterlockedClass",
+      "ColorIndex": 8
+    },
+    "c421dcba-1326-4214-b2f3-108b2c65d4ff": {
+      "ProjectGuid": "c421dcba-1326-4214-b2f3-108b2c65d4ff",
+      "DisplayName": "UsingThelockKeyword",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}
