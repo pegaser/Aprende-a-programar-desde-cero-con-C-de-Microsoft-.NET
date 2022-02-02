@@ -1,0 +1,22 @@
+﻿<Window x:Class="CollectionSyntax.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CollectionSyntax"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Rectangle Width="200" Height="100">
+            <Rectangle.Fill>
+                <LinearGradientBrush>
+                    <LinearGradientBrush.GradientStops>
+                        <GradientStop Offset="0.0" Color="Red" />
+                        <GradientStop Offset="1.0" Color="Blue" />
+                        <GradientStop Offset="0.75" Color="LimeGreen"  />
+                    </LinearGradientBrush.GradientStops>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+    </StackPanel>
+</Window>

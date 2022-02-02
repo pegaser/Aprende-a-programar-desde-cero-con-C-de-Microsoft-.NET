@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "96fef8fe-c264-47d5-a09f-2b9a61c4e4e0": {
+      "ProjectGuid": "96fef8fe-c264-47d5-a09f-2b9a61c4e4e0",
+      "DisplayName": "WhatIsXaml",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "ac4e202c-d6d5-489c-ba47-acec29147b77": {
+      "ProjectGuid": "ac4e202c-d6d5-489c-ba47-acec29147b77",
+      "DisplayName": "PropertyElementSyntax",
+      "ColorIndex": 1
+    },
+    "07dec913-0508-493e-a409-9d3286d63f5e": {
+      "ProjectGuid": "07dec913-0508-493e-a409-9d3286d63f5e",
+      "DisplayName": "CollectionSyntax",
+      "ColorIndex": 2
+    },
+    "e1f16923-acc9-44df-871f-233d429bf2ee": {
+      "ProjectGuid": "e1f16923-acc9-44df-871f-233d429bf2ee",
+      "DisplayName": "ContentPropertiesSyntax",
+      "ColorIndex": 3
+    },
+    "5009b219-d20a-4841-b35a-7f657385d38e": {
+      "ProjectGuid": "5009b219-d20a-4841-b35a-7f657385d38e",
+      "DisplayName": "TextContentExample",
+      "ColorIndex": 4
+    },
+    "c8e01767-8e59-4088-9522-50124752cab8": {
+      "ProjectGuid": "c8e01767-8e59-4088-9522-50124752cab8",
+      "DisplayName": "EventsAsAttributeExample",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
