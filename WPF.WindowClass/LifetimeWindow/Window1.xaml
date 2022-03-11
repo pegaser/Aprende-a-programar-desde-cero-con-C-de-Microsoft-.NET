@@ -1,0 +1,19 @@
+﻿<Window x:Class="LifetimeWindow.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LifetimeWindow"
+        mc:Ignorable="d"
+        SourceInitialized="Window_SourceInitialized"
+        Activated="Window_Activated"
+        Loaded="Window_Loaded"
+        ContentRendered="Window_ContentRendered"
+        Closing="Window_Closing"
+        Deactivated="Window_Deactivated"
+        Closed="Window_Closed"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        
+    </Grid>
+</Window>

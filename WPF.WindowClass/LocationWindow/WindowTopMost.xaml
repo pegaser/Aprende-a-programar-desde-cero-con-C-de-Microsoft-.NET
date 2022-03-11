@@ -1,0 +1,13 @@
+﻿<Window x:Class="LocationWindow.WindowTopMost"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LocationWindow" SizeToContent="WidthAndHeight" 
+        mc:Ignorable="d" Height="400"
+        Title="WindowTopMost" >
+    <Grid>
+        <TextBlock Text="Mi texto." Width="200" Height="50" FontSize="40" TextAlignment="Center"></TextBlock>
+        <!--<Button Click="Button_Click">Muestra Alto y Ancho</Button>-->
+    </Grid>
+</Window>
