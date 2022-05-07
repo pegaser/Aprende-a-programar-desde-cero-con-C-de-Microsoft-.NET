@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="BulletDecoratorWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CanvasWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DockPanelWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ExpanderWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="GridSplitterWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="GridWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="GroupBoxWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="StackPanelWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ThumbWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WrapPanelWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="BulletDecoratorWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CanvasWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DockPanelWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ExpanderWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="GridSplitterWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="GridWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="GroupBoxWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="StackPanelWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ThumbWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WrapPanelWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,29 @@
+﻿<Window x:Class="OthersElements.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OthersElements"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="800">
+    <StackPanel>
+        <Menu>
+            <MenuItem Header="File">
+                <MenuItem Header="Open..."></MenuItem>
+                <Separator></Separator>
+                <MenuItem Header="Save"></MenuItem>
+                <MenuItem Header="Save As..."></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Options">
+                <MenuItem Header="Margins..." Click="MenuItem_Click"></MenuItem>
+            </MenuItem>
+            
+        </Menu>
+        <TextBox Height="200"></TextBox>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Right">
+            <Button Content="_Margins..." Click="MenuItem_Click" />
+            <Button Content="Save" Click="MenuItem_Click" />
+            <Button Content="Save As..." Click="MenuItem_Click" />
+        </StackPanel>
+    </StackPanel>
+</Window>

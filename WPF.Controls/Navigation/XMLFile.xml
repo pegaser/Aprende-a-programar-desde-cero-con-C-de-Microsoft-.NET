@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Customers>
+	<Customer>
+		<Name>Sergio</Name>
+		<Age>40</Age>
+	</Customer>
+	<Customer>
+		<Name>Alejandro</Name>
+		<Age>42</Age>
+	</Customer>
+</Customers>

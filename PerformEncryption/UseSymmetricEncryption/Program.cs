@@ -9,7 +9,7 @@ namespace UseSymmetricEncryption
         static void Main(string[] args)
         {
             string original = "My secret data!";
-            using (SymmetricAlgorithm symmetricAlgorithm = new AesManaged())
+            using (var symmetricAlgorithm = Aes.Create())
             {
                 byte[] encrypted = Encrypt(symmetricAlgorithm, original);
                 string roundtrip = Decrypt(symmetricAlgorithm, encrypted);

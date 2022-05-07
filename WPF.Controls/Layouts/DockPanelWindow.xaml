@@ -1,0 +1,19 @@
+﻿<Window x:Class="Layouts.DockPanelWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Layouts" mc:Ignorable="d"
+        Title="DockPanelWindow" Height="450" Width="800">
+    <DockPanel LastChildFill="False">
+        <TextBlock DockPanel.Dock="Top" HorizontalAlignment="Center" Background="Aqua">Usando TOP</TextBlock>
+        <TextBlock DockPanel.Dock="Right" Background="Green">Usando RIGHT</TextBlock>
+        <TextBlock DockPanel.Dock="Left" Background="Red">Usando LEFT</TextBlock>
+        <StackPanel Orientation="Horizontal" DockPanel.Dock="Bottom">
+            <TextBlock  Background="Blue">Usando BOTTOM</TextBlock>
+            <TextBlock  Background="Purple">Usando BOTTOM</TextBlock>
+        </StackPanel>
+        
+        <Label Background="Black">Un ejemplo</Label>
+    </DockPanel>
+</Window>

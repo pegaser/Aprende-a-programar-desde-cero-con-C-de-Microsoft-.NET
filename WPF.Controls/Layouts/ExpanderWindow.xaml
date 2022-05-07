@@ -1,0 +1,24 @@
+﻿<Window x:Class="Layouts.ExpanderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Layouts"
+        mc:Ignorable="d" Title="ExpanderWindow" Height="450" Width="800">
+    <Grid>
+        <Expander Name="myExpander" Background="Yellow" 
+          HorizontalAlignment="Left" 
+          ExpandDirection="Right" IsExpanded="True" >
+            <Expander.Header>
+                <StackPanel>
+                    <Label>Header</Label>
+                </StackPanel>
+            </Expander.Header>
+            <TextBlock TextWrapping="Wrap">
+                Lorem ipsum dolor sit amet, consectetur
+                adipisicing elit, sed do eiusmod tempor incididunt ut
+                labore et dolore magna aliqua
+            </TextBlock>
+        </Expander>
+    </Grid>
+</Window>

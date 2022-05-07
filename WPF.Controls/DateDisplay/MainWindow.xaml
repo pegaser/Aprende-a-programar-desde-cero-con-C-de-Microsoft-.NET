@@ -1,0 +1,40 @@
+﻿<Window x:Class="DateDisplay.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DateDisplay"
+        mc:Ignorable="d" Title="MainWindow" Height="450" Width="800">
+    <StackPanel Orientation="Horizontal" VerticalAlignment="Top">
+        <Calendar Margin="20" 
+            SelectedDate="1/15/2023"
+            DisplayDate="3/15/2023"
+            DisplayDateStart="1/1/2023"
+            DisplayDateEnd="3/31/2023"/>
+        <Calendar Margin="20" SelectionMode="MultipleRange"  
+          IsTodayHighlighted="false" 
+          DisplayDate="1/1/2009"
+          DisplayDateEnd="1/31/2009"
+          xmlns:sys="clr-namespace:System;assembly=mscorlib">
+            <Calendar.BlackoutDates>
+                <CalendarDateRange Start="1/2/2009" End="1/4/2009"/>
+                <CalendarDateRange Start="1/9/2009" End="1/9/2009"/>
+                <CalendarDateRange Start="1/16/2009" End="1/16/2009"/>
+                <CalendarDateRange Start="1/23/2009" End="1/25/2009"/>
+                <CalendarDateRange Start="1/30/2009" End="1/30/2009"/>
+            </Calendar.BlackoutDates>
+            <Calendar.SelectedDates>
+                <sys:DateTime>1/5/2009</sys:DateTime>
+                <sys:DateTime>1/12/2009</sys:DateTime>
+                <sys:DateTime>1/14/2009</sys:DateTime>
+                <sys:DateTime>1/13/2009</sys:DateTime>
+                <sys:DateTime>1/15/2009</sys:DateTime>
+                <sys:DateTime>1/27/2009</sys:DateTime>
+                <sys:DateTime>4/2/2009</sys:DateTime>
+            </Calendar.SelectedDates>
+        </Calendar>
+        <DatePicker SelectedDateFormat="Short" SelectedDate="1/15/2023"
+                  DisplayDateStart="1/01/2023" DisplayDateEnd="12/31/2023" 
+                  FirstDayOfWeek="Monday" Margin="20" Height="30"/>
+    </StackPanel>
+</Window>

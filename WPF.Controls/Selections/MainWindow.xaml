@@ -1,0 +1,49 @@
+﻿<Window x:Class="Selections.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Selections" Loaded="Window_Loaded"
+        mc:Ignorable="d" Title="MainWindow" Height="600" Width="800">
+    <StackPanel Margin="10">
+        <TextBlock Text="CHECKBOX" Margin="0,20,0,10" FontSize="18" FontWeight="Bold" Foreground="BlueViolet"/>
+        <TextBlock x:Name="txbMyTextBlock1" Text="Sin selección aún." />
+        <CheckBox x:Name="chbMyCheckBox" Margin="20" Content="CheckBox de 3 estados" IsThreeState="True" 
+                  Checked="chbMyCheckBox_Checked"  Unchecked="chbMyCheckBox_Unchecked" Indeterminate="chbMyCheckBox_Indeterminate" />
+
+        <TextBlock Text="COMBOBOX" Margin="0,20,0,10"  FontSize="18" FontWeight="Bold" Foreground="BlueViolet"/>
+        <TextBlock Text="{Binding ElementName=cmbMyComboBox, Path=SelectedItem}"/>
+        <ComboBox Name="cmbMyComboBox" Text="My Cities" IsEditable="true" IsReadOnly="false"/>
+
+        <TextBlock Text="LISTBOX" Margin="0,20,0,10" FontSize="18" FontWeight="Bold" Foreground="BlueViolet"/>
+        <TextBlock Name="txbMyTextBlock2" Text="Sin selección aún."></TextBlock>
+        <ListBox Name="lsbMyListBox" Width="100" Height="55" SelectionChanged="lsbMyListBox_SelectionChanged"  SelectionMode="Single">
+            <ListBoxItem>Item 1</ListBoxItem>
+            <ListBoxItem>Item 2</ListBoxItem>
+            <ListBoxItem>Item 3</ListBoxItem>
+            <ListBoxItem>Item 4</ListBoxItem>
+            <ListBoxItem>Item 5</ListBoxItem>
+            <ListBoxItem>Item 6</ListBoxItem>
+            <ListBoxItem>Item 7</ListBoxItem>
+            <ListBoxItem>Item 8</ListBoxItem>
+            <ListBoxItem>Item 9</ListBoxItem>
+            <ListBoxItem>Item 10</ListBoxItem>
+        </ListBox>
+
+        <TextBlock Text="RADIOBUTTON" Margin="0,20,0,10"  FontSize="18" FontWeight="Bold" Foreground="BlueViolet"/>
+        <TextBox Name="txbMyTextBlock3">Sin selección aún.</TextBox>
+        <StackPanel Orientation="Horizontal">
+            <RadioButton GroupName="ColorGroup" Checked="RadioButton_Checked">Red</RadioButton>
+            <RadioButton GroupName="ColorGroup" Checked="RadioButton_Checked">Blue</RadioButton>
+            <RadioButton GroupName="NumberGroup" Checked="RadioButton_Checked">1</RadioButton>
+            <RadioButton GroupName="NumberGroup" Checked="RadioButton_Checked">2</RadioButton>
+        </StackPanel>
+
+        <TextBlock Text="SLIDER" Margin="0,20,0,10"  FontSize="18" FontWeight="Bold" Foreground="BlueViolet"/>
+        <StackPanel Orientation="Horizontal">
+            <Slider Name="sldMySlider1" Width="200" Orientation="Horizontal" HorizontalAlignment="Left" Value="50" Minimum="0" Maximum="100" 
+                SmallChange="1" LargeChange="10" TickPlacement="BottomRight" TickFrequency="10"/>
+            <Rectangle Fill="Blue" HorizontalAlignment="Left"  Width="{Binding ElementName=sldMySlider1,Path=Value}"/>
+        </StackPanel>
+    </StackPanel>
+</Window>

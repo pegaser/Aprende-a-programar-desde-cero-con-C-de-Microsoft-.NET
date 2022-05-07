@@ -1,0 +1,21 @@
+﻿<Window x:Class="WPF.DialogBoxHomework.LoginDialogBox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF.DialogBoxHomework"
+        mc:Ignorable="d"
+        SizeToContent="WidthAndHeight"
+        ResizeMode="NoResize"
+        ShowInTaskbar="False"
+        WindowStartupLocation="CenterOwner" 
+        Title="LOGIN">
+    <StackPanel>
+        <Label>Nombre de usuario:</Label>
+        <TextBox></TextBox>
+        <Label>Contraseña:</Label>
+        <PasswordBox></PasswordBox>
+        <Button Click="Button_Ok_Click" IsDefault="True">Aceptar</Button>
+        <Button Click="Button_Cancel_Click" IsCancel="True">No tengo</Button>
+    </StackPanel>
+</Window>
