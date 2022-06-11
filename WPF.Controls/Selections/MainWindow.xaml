@@ -8,16 +8,16 @@
     <StackPanel Margin="10">
         <TextBlock Text="CHECKBOX" Margin="0,20,0,10" FontSize="18" FontWeight="Bold" Foreground="BlueViolet"/>
         <TextBlock x:Name="txbMyTextBlock1" Text="Sin selección aún." />
-        <CheckBox x:Name="chbMyCheckBox" Margin="20" Content="CheckBox de 3 estados" IsThreeState="True" 
+        <CheckBox x:Name="chbMyCheckBox" Margin="20" Content="CheckBox de 3 estados" IsThreeState="False" 
                   Checked="chbMyCheckBox_Checked"  Unchecked="chbMyCheckBox_Unchecked" Indeterminate="chbMyCheckBox_Indeterminate" />
-
+        
         <TextBlock Text="COMBOBOX" Margin="0,20,0,10"  FontSize="18" FontWeight="Bold" Foreground="BlueViolet"/>
         <TextBlock Text="{Binding ElementName=cmbMyComboBox, Path=SelectedItem}"/>
         <ComboBox Name="cmbMyComboBox" Text="My Cities" IsEditable="true" IsReadOnly="false"/>
 
         <TextBlock Text="LISTBOX" Margin="0,20,0,10" FontSize="18" FontWeight="Bold" Foreground="BlueViolet"/>
         <TextBlock Name="txbMyTextBlock2" Text="Sin selección aún."></TextBlock>
-        <ListBox Name="lsbMyListBox" Width="100" Height="55" SelectionChanged="lsbMyListBox_SelectionChanged"  SelectionMode="Single">
+        <ListBox Name="lsbMyListBox" Width="100" Height="55" SelectionChanged="lsbMyListBox_SelectionChanged"  SelectionMode="Multiple">
             <ListBoxItem>Item 1</ListBoxItem>
             <ListBoxItem>Item 2</ListBoxItem>
             <ListBoxItem>Item 3</ListBoxItem>
@@ -42,7 +42,7 @@
         <TextBlock Text="SLIDER" Margin="0,20,0,10"  FontSize="18" FontWeight="Bold" Foreground="BlueViolet"/>
         <StackPanel Orientation="Horizontal">
             <Slider Name="sldMySlider1" Width="200" Orientation="Horizontal" HorizontalAlignment="Left" Value="50" Minimum="0" Maximum="100" 
-                SmallChange="1" LargeChange="10" TickPlacement="BottomRight" TickFrequency="10"/>
+                SmallChange="1" LargeChange="10" TickPlacement="TopLeft" TickFrequency="10"/>
             <Rectangle Fill="Blue" HorizontalAlignment="Left"  Width="{Binding ElementName=sldMySlider1,Path=Value}"/>
         </StackPanel>
     </StackPanel>

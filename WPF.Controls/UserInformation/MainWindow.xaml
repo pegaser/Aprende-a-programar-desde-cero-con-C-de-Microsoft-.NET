@@ -1,0 +1,85 @@
+﻿<Window x:Class="UserInformation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UserInformation"
+        mc:Ignorable="d" Loaded="Window_Loaded"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <!--ACCES TEXT-->
+        <Button Click="edit_Click">
+            <AccessText>_Edit</AccessText>
+        </Button>
+        <Button Click="cut_Click">Cut_More</Button>
+
+        <!--LABEL-->
+        <TextBox Name="MyTextBox" Width="100">
+            <TextBox.ToolTip>Tooltip</TextBox.ToolTip>
+        </TextBox>
+        <Label Target="{Binding ElementName=MyTextBox}">_File</Label>
+
+        <TextBox Name="MyOtherTExtBox" Width="50" Height="20"/>
+        <Label Width="200" HorizontalAlignment="Left"
+               Target="{Binding ElementName=MyOtherTExtBox}">
+            <AccessText TextWrapping="WrapWithOverflow">
+                _Another long piece of text that requires text wrapping goes here.
+            </AccessText>
+        </Label>
+        
+        <!--POPUP-->
+        <Button Name="btnOpenPopup" Click="btnOpenPopup_Click">Open Popup</Button>
+        <Popup Margin="10" Name="MyPopup" HorizontalAlignment="Left" HorizontalOffset="2000" VerticalOffset="1000"  
+               VerticalAlignment="Top" Placement="Absolute">
+            <Border BorderThickness="5" BorderBrush="Blue">
+                <TextBlock Name="McTextBlock" Background="LightBlue" >  
+                    This is popup text
+                </TextBlock>
+            </Border>
+        </Popup>
+        
+        <!--PORGESSBAR-->
+        <Border Margin="10">
+            <ProgressBar Value="75" Maximum="100" Minimum="0" Height="20" Name="myProgressBar" />
+        </Border>
+
+        <!--STATUS BAR-->
+        <StatusBar Name="sbar" VerticalAlignment="Bottom" Background="LightGreen" >
+            <StatusBarItem>
+                <TextBlock>Downloading File</TextBlock>
+            </StatusBarItem>
+            <StatusBarItem>
+                <ProgressBar Value="75" Height="20" Width="100"/>
+            </StatusBarItem>
+            <Separator/>
+            <StatusBarItem>
+                <TextBlock>Online</TextBlock>
+            </StatusBarItem>
+            <StatusBarItem HorizontalAlignment="Right">
+                <Image Source="house icon.png" Width="16" Height="16"/>
+            </StatusBarItem>
+        </StatusBar>
+
+        <!--TEXT BLOCK y TOOLTIP-->
+        <TextBlock TextWrapping="Wrap">
+            <TextBlock.ToolTip>
+                <TextBlock>Useful information goes here.</TextBlock>
+            </TextBlock.ToolTip>
+          <Bold>TextBlock</Bold> es diseñado para ser <Italic>ligero</Italic>,
+          y está orientado específicamente para integrar <Italic>pequeñoa</Italic> porciones
+          de contenido en una Iterfaz de Usuario.
+        </TextBlock>
+        <TextBlock  TextWrapping="Wrap" Background="AntiqueWhite" TextAlignment="Center">
+            <TextBlock.ToolTip>
+                <ToolTip>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="house icon.png" Width="16" Height="16"/>
+                        <TextBlock>Useful information goes here.</TextBlock>
+                    </StackPanel>
+                </ToolTip>
+            </TextBlock.ToolTip>
+            De forma predeterminada, un TextBlock no proporciona una interfaz de usuario más allá de simplemente mostrar su contenido.
+        </TextBlock>
+
+    </StackPanel>
+</Window>

@@ -10,24 +10,25 @@
         <TextBlock>Este texto está fuera del FRAME</TextBlock>
         <Frame Name="frmMyFrame" Source="Page1.xaml" />
         <TextBlock>Este texto tambien está fuera del FRAME</TextBlock>
-        <Frame Source="http://www.google.com" />
         <Button x:Name="btnOpenNavigator" Click="btnOpenNavigator_Click">Open NavigateWindow</Button>
+
         <TabControl>
-          <TabItem>
-            <TabItem.Header>
-              <StackPanel Orientation="Horizontal">
-                <Ellipse Width="10" Height="10" Fill="Red"/>
-                <TextBlock>Tab 1</TextBlock>
-              </StackPanel>
-            </TabItem.Header>
-            <StackPanel Orientation="Horizontal">
-              <TextBlock>Introduce algo:</TextBlock>
-              <TextBox Name="txtMyTextboxTab" Width="100"/>
-            </StackPanel>
-          </TabItem>
-          <TabItem Header="Tab 2">
+            <TabItem>
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <Ellipse Width="10" Height="10" Fill="Red"/>
+                        <TextBlock>Tab 1</TextBlock>
+                    </StackPanel>
+                </TabItem.Header>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock>Introduce algo:</TextBlock>
+                    <TextBox Name="txtMyTextboxTab" Width="100"/>
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="Tab 2">
                 <TextBlock Text="{Binding ElementName=txtMyTextboxTab, Path=Text}"/>
-          </TabItem>
+            </TabItem>
         </TabControl>
     </StackPanel>
 </Window>
+    
