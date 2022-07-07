@@ -1,0 +1,24 @@
+﻿<Window x:Class="WPF.Bindings.BindingToObjects"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF.Bindings"
+        mc:Ignorable="d" Title="BindingToObjects" Height="450" Width="800">
+    <Window.Resources>
+        <FontFamily x:Key="CustomFont">Calibri</FontFamily>
+    </Window.Resources>
+
+    <StackPanel>
+        <TextBlock Text="{Binding Source={x:Static SystemFonts.IconFontFamily},Path=Source}"></TextBlock>
+        <TextBlock Text="{Binding Source={StaticResource CustomFont},Path=Source}"></TextBlock>
+        <TextBlock Text="{Binding Path=Title,RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}} }"></TextBlock>
+
+        <StackPanel DataContext="{x:Static SystemFonts.IconFontFamily}">
+            <TextBlock Text="{Binding Path=Source}"></TextBlock>
+            <TextBlock Text="{Binding Path=LineSpacing}"></TextBlock>
+            <TextBlock Text="{Binding Path=FamilyTypefaces[0].Style}"></TextBlock>
+            <TextBlock Text="{Binding Path=FamilyTypefaces[0].Weight}"></TextBlock>
+        </StackPanel>
+    </StackPanel>
+</Window>

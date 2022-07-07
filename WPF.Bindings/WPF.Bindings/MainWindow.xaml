@@ -1,0 +1,19 @@
+﻿<Window x:Class="WPF.Bindings.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF.Bindings"
+        mc:Ignorable="d" Loaded="Window_Loaded"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Margin="10">
+        <TextBox x:Name="txtContent" Text="Texto Simple"/>
+        <Slider Name="sliderFontSize" Margin="3" Minimum="1" Maximum="40" Value="10" TickFrequency="1" TickPlacement="TopLeft"/>
+        <TextBlock Margin="10" Name="lblSampleText" FontSize="{Binding ElementName=sliderFontSize, Path=Value , Mode=TwoWay,UpdateSourceTrigger=PropertyChanged, Delay=3000}" Text="{Binding ElementName=txtContent, Path=Text}" />
+        <StackPanel Orientation="Horizontal">
+            <Button Name="btnSmall" Click="btnSmall_Click" Margin="5">Pequeño</Button>
+            <Button Name="btnNormal" Click="btnNormal_Click" Margin="5">Normal</Button>
+            <Button Name="btnLarge" Click="btnLarge_Click" Margin="5">Grande</Button>
+        </StackPanel>
+    </StackPanel>
+</Window>

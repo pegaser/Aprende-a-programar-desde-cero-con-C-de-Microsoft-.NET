@@ -1,0 +1,58 @@
+﻿<Window x:Class="Documents.FlowDocuments"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Documents"
+        mc:Ignorable="d" Loaded="Window_Loaded"
+        Title="FlowDocuments" Height="450" Width="800">
+    <Grid>
+        <FlowDocumentPageViewer >
+            <FlowDocument>
+                <Paragraph FontSize="36" Margin="0">Usuarios</Paragraph>
+                <Paragraph FontStyle="Italic" TextAlignment="Left" FontSize="14" Foreground="Gray">Aquí mostraremos información de usuarios!</Paragraph>
+                <BlockUIContainer>
+                    <ListView BorderThickness="0" Name="lstUsers">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}" Width="150" />
+                                <GridViewColumn Header="Age" DisplayMemberBinding="{Binding Age}" Width="75" />
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </BlockUIContainer>
+                <Section Background="LightBlue">
+                    <Paragraph FontStyle="Italic" TextAlignment="Left" FontSize="14" Foreground="Gray">Más contenido aqui...</Paragraph>
+                </Section>
+                <Table>
+                    <TableRowGroup>
+                        <TableRow>
+                            <TableCell>
+                                <Paragraph>
+                                    Columna 1 Renglon 1.
+                                </Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph>
+                                    Columna 2 Renglon 1.
+                                </Paragraph>
+                            </TableCell>
+                        </TableRow>
+                        <TableRow>
+                            <TableCell>
+                                <Paragraph>
+                                    Columna 1 Renglon 2.
+                                </Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph>
+                                    Columna 2 Renglon 2.
+                                </Paragraph>
+                            </TableCell>
+                        </TableRow>
+                    </TableRowGroup>
+                </Table>
+            </FlowDocument>
+        </FlowDocumentPageViewer>
+    </Grid>
+</Window>

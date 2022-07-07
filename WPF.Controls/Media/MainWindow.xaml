@@ -1,0 +1,24 @@
+﻿<Window x:Class="Media.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Media"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1090" Width="900">
+    <StackPanel>
+        <Image Name="imgMyImage" Source="https://img2.freepng.es/20180812/uky/kisspng-logo-microsoft-corporation-portable-network-graphi-go-to-image-page-5b70bce7892473.3411475815341150475618.jpg" />
+        <Image Source="/Images/c sharp logo.png" Height="200" Width="200"></Image>
+        <Button Name="btnChangeImage" Click="btnChangeImage_Click">Cambiar imágen</Button>
+        <MediaElement Source="https://stsci-opo.org/STScI-01G68DFH1Z4CB5FWSSE3CM5BK8.mp4" LoadedBehavior="Manual" Name="mePlayer" />
+        <StackPanel>
+            <Label Name="lblStatus" Content="Not playing..." HorizontalContentAlignment="Center" Margin="5" />
+            <WrapPanel HorizontalAlignment="Center">
+                <Button Name="btnPlay" Click="btnPlay_Click">Play</Button>
+                <Button Name="btnPause" Margin="5,0" Click="btnPause_Click">Pause</Button>
+                <Button Name="btnStop" Click="btnStop_Click">Stop</Button>
+            </WrapPanel>
+        </StackPanel>
+        <Button Name="btnOpenAudioFile" Click="btnOpenAudioFile_Click">Open Audio file</Button>
+    </StackPanel>
+</Window>

@@ -1,0 +1,24 @@
+﻿<Window x:Class="Inputs.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Inputs"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Margin="10">
+        <TextBox Name="txtMyTextBox">Escribe algo</TextBox>
+        <Button Click="Button_Click">Cambia texto</Button>
+        <Separator Margin="10"></Separator>
+        <RichTextBox Name="rtbMyRichTextBox">
+            <FlowDocument>
+                <Paragraph>
+                    <Run>Escribe algo...</Run>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Button Click="Button_Click_2">Cambia Rich Text</Button>
+        <Separator Margin="10"></Separator>
+        <PasswordBox Name="pbxMyPassBox" MaxLength="64" PasswordChar="#" PasswordChanged="pbxMyPassBox_PasswordChanged" />
+    </StackPanel>
+</Window>
