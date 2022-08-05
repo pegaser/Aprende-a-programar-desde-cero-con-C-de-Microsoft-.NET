@@ -1,0 +1,50 @@
+﻿<Window x:Class="WPF.ResourcesExample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF.ResourcesExample"
+        xmlns:res="clr-namespace:MyWpfLibrary;assembly=MyWpfLibrary"
+        mc:Ignorable="d" Title="MainWindow" Height="800" Width="800">
+    <Window.Resources>
+        <ImageBrush x:Key="TileBrush" TileMode="Tile" ViewportUnits="Absolute" Viewport="0 0 32 32" ImageSource="emoji.png" Opacity="0.3" />
+    </Window.Resources>
+    <StackPanel Margin="10">
+        <TextBlock>Colección de Recursos</TextBlock>
+        <Button Background="{StaticResource TileBrush}" FontSize="14" Height="30" Width="300">A Tiled Button</Button>
+        <Button Background="{StaticResource TileBrush}">A Tiled Button 2</Button>
+        <Separator Margin="20" />
+        <TextBlock>Jerarquía de recursos</TextBlock>
+        <StackPanel>
+            <StackPanel.Resources>
+                <ImageBrush x:Key="MyBrush2" TileMode="None" ImageSource="emoji.png" />
+            </StackPanel.Resources>
+            <Button Background="{StaticResource MyBrush2}" Height="30" Width="30"></Button>
+            <Button Background="{StaticResource MyBrush2}" Height="30" Width="30"></Button>
+        </StackPanel>
+        <Button Height="30" Width="30" Background="{DynamicResource TileBrush}">
+            <Button.Resources>
+                <ImageBrush x:Key="TileBrush" TileMode="None" ImageSource="emoji.png" />
+            </Button.Resources>
+        </Button>
+        <Separator Margin="20" />
+        <TextBlock>Recursos dinámico y estáticos</TextBlock>
+        <Button x:Name="btnChangeResource" Click="btnChangeResource_Click">Cambia Mosaico</Button>
+        <Button Background="{DynamicResource TileBrush}">A Tiled Button 2</Button>
+
+        <Separator Margin="20" />
+        <TextBlock>Recursos de aplicación y de sistema</TextBlock>
+        <Button x:Name="btnOpenWindow2" Click="btnOpenWindow2_Click">Abre segunda ventana</Button>
+        
+        <Separator Margin="20" />
+        <TextBlock>Diccionario de recursos</TextBlock>
+        <Button Background="{StaticResource TileBrushDictionary}" >Desde Diccionario</Button>
+        <Button Name="btnPink" >Desde Diccionario 2</Button>
+        <Button Background="{DynamicResource {ComponentResourceKey TypeInTargetAssembly={x:Type res:CustomResources}, ResourceId=brushRed}}">
+            A Resource From ResourceLibrary
+        </Button>
+        <Button Background="{DynamicResource {x:Static res:CustomResources.RedBrushKey}}">
+            A Resource From ResourceLibrary
+        </Button>
+    </StackPanel>
+</Window>

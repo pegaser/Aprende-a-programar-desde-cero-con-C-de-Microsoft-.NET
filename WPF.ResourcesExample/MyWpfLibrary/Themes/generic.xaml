@@ -1,0 +1,6 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:MyWpfLibrary">
+    <SolidColorBrush x:Key="ComponentResourceKey TypeInTargetAssembly={x:Type local:CustomResources},ResourceId=brushRed}" Color="Red"></SolidColorBrush>
+    <SolidColorBrush x:Key="ComponentResourceKey TypeInTargetAssembly={x:Type local:CustomResources},ResourceId=brushYellow}" Color="Yellow"></SolidColorBrush>
+</ResourceDictionary>
