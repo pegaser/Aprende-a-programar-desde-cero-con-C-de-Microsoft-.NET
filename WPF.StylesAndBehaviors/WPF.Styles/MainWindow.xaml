@@ -1,0 +1,92 @@
+﻿<Window x:Class="WPF.Styles.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF.Styles" mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="800"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        FontFamily="Verdana" FontSize="22" FontWeight="Bold">
+    <Window.Resources>
+        <FontFamily x:Key="ButtonFontFamily">Times New Roman</FontFamily>
+        <sys:Double x:Key="ButtonFontSize">18</sys:Double>
+        <FontWeight x:Key="ButtonFontWeight">Bold</FontWeight>
+        <Style x:Key="BigFontButtonStyle">
+            <Setter Property="Control.FontFamily" Value="Times New Roman" />
+            <Setter Property="Control.FontSize" Value="30" />
+            <Setter Property="Control.FontWeight" Value="Bold" />
+        </Style>
+        <Style x:Key="HappyTiledElementStyle">
+            <Setter Property="Control.Background">
+                <Setter.Value>
+                    <ImageBrush TileMode="Tile" ViewportUnits="Absolute" Viewport="0 0 32 32" 
+                                ImageSource="emoji.png" Opacity="0.3">
+                    </ImageBrush>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="BigFontStyle">
+            <Setter Property="Button.FontFamily" Value="Times New Roman" />
+            <Setter Property="Button.FontSize" Value="10" />
+            <Setter Property="TextBlock.FontFamily" Value="Arial" />
+            <Setter Property="TextBlock.FontSize" Value="30" />
+        </Style>
+        <Style x:Key="BigFontButtonStyle3" TargetType="Button">
+            <Setter Property="FontFamily" Value="Times New Roman" />
+            <Setter Property="FontSize" Value="18" />
+            <Setter Property="FontWeight" Value="Bold" />
+        </Style>
+        <Style x:Key="MouseOverHighlightStyle">
+            <EventSetter Event="TextBlock.MouseEnter" Handler="element_MouseEnter" />
+            <EventSetter Event="TextBlock.MouseLeave" Handler="element_MouseLeave" />
+            <Setter Property="TextBlock.Padding" Value="5"/>
+        </Style>
+        <Style x:Key="EmphasizedBigFontButtonStyle" BasedOn="{StaticResource BigFontButtonStyle}">
+            <Setter Property="Control.Foreground" Value="Red" />
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Control.Foreground" Value="Cyan" />
+        </Style>
+    </Window.Resources>
+
+    <StackPanel>
+        <StackPanel Margin="10">
+            <TextBlock>Mi texto de prueba</TextBlock>
+            <Button Style="{x:Null}">Mi Botón</Button>
+        </StackPanel>
+        <StackPanel Margin="10">
+            <TextBlock>Mi texto de prueba</TextBlock>
+            <Button FontFamily="{StaticResource ButtonFontFamily}"
+                    FontWeight="{StaticResource ButtonFontWeight}"
+                    FontSize="{StaticResource ButtonFontSize}">
+                Mi Botón
+            </Button>
+        </StackPanel>
+        <StackPanel Margin="10">
+            <TextBlock>Mi texto de prueba</TextBlock>
+            <Button Style="{StaticResource HappyTiledElementStyle}">
+                Mi Botón
+            </Button>
+        </StackPanel>
+        <StackPanel Margin="10">
+            <TextBlock Style="{StaticResource BigFontStyle}">Mi texto de prueba BigFontStyle</TextBlock>
+            <Button Style="{StaticResource BigFontStyle}">Mi Botón</Button>
+        </StackPanel>
+        <StackPanel Margin="10">
+            <TextBlock> <!--Style="{StaticResource BigFontButtonStyle3}"--> 
+                Mi texto de prueba BigFontButtonStyle3
+            </TextBlock>
+            <Button Style="{StaticResource BigFontButtonStyle3}">Mi Botón</Button>
+        </StackPanel>
+        <StackPanel Margin="10">
+            <TextBlock Style="{StaticResource MouseOverHighlightStyle}">
+                Pasa el cursor sobre mi.
+            </TextBlock>
+        </StackPanel>
+        <StackPanel Margin="10">
+            <TextBlock Style="{StaticResource EmphasizedBigFontButtonStyle}">
+                Usando el estilo EmphasizedBigFontButtonStyle
+            </TextBlock>
+        </StackPanel>
+    </StackPanel>
+</Window>

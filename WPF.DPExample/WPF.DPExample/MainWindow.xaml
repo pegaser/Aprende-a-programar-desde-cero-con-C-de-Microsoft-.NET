@@ -1,0 +1,15 @@
+﻿<Window x:Class="WPF.DPExample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF.DPExample"
+        mc:Ignorable="d" Loaded="Window_Loaded" FontSize="30"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Button x:Name="btnMain" FontSize="7">Click Me</Button>
+        <Button x:Name="btnMain2" Click="btnMain2_Click">Click Me</Button>
+        <TextBox TextChanged="TextBox_TextChanged"></TextBox>
+        <local:MyButton SetGreenBackGround="True">My Button</local:MyButton>
+    </StackPanel>
+</Window>
