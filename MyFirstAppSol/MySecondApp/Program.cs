@@ -6,7 +6,7 @@ namespace MySecondApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("My Second Hello World!");
+            Console.WriteLine("My Second Hello, World!");
             Console.ReadKey();
         }
     }

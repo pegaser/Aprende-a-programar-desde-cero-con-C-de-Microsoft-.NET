@@ -15,6 +15,13 @@ namespace ConsoleIOExample
 
             try
             {
+                string inputFile;
+                while (!File.Exists(Path.Combine(Environment.CurrentDirectory, args[1])))
+                {
+                    Console.WriteLine("Favor de proporcionar la ruta del archivo de entrada");
+                    inputFile = Console.ReadLine();
+                    return;
+                }
                 // Intentamos abrir el archivo de salida para escribir
                 using (var writer = new StreamWriter(args[1]))
                 {

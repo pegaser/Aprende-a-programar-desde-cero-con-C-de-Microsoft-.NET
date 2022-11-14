@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AttachedProperties/1.0.0": {
+        "runtime": {
+          "AttachedProperties.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AttachedProperties/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -17,14 +17,18 @@ namespace BinarySerialization
             IFormatter formatter = new BinaryFormatter();
             using (Stream stream = new FileStream(@"C:\Temp\data.bin", FileMode.Create))
             {
+#pragma warning disable SYSLIB0011 // El tipo o el miembro están obsoletos
                 formatter.Serialize(stream, person);
+#pragma warning restore SYSLIB0011 // El tipo o el miembro están obsoletos
             }
             Console.WriteLine("Se serializó objeto en el archivo data.bin");
             Console.ReadKey();
 
             using (Stream stream = new FileStream(@"C:\Temp\data.bin", FileMode.Open))
             {
+#pragma warning disable SYSLIB0011 // El tipo o el miembro están obsoletos
                 Person deserializePerson = (Person)formatter.Deserialize(stream);
+#pragma warning restore SYSLIB0011 // El tipo o el miembro están obsoletos
                 Console.WriteLine($"Se deserializó objeto Person ID={deserializePerson.Id} Name={deserializePerson.Name}");
                 Console.ReadKey();
             }
@@ -37,14 +41,18 @@ namespace BinarySerialization
             formatter = new BinaryFormatter();
             using (Stream stream = new FileStream(@"C:\Temp\data.bin", FileMode.Create))
             {
+#pragma warning disable SYSLIB0011 // El tipo o el miembro están obsoletos
                 formatter.Serialize(stream, personcomplex);
+#pragma warning restore SYSLIB0011 // El tipo o el miembro están obsoletos
             }
             Console.WriteLine("Se serializó objeto en el archivo data.bin");
             Console.ReadKey();
 
             using (Stream stream = new FileStream(@"C:\Temp\data.bin", FileMode.Open))
             {
+#pragma warning disable SYSLIB0011 // El tipo o el miembro están obsoletos
                 PersonComplex deserializePersonComplex = (PersonComplex)formatter.Deserialize(stream);
+#pragma warning restore SYSLIB0011 // El tipo o el miembro están obsoletos
                 Console.WriteLine($"Se deserializó objeto Person ID={deserializePersonComplex.Id} Name={deserializePersonComplex.Name}");
                 Console.ReadKey();
             }
