@@ -1,0 +1,15 @@
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.exe
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.deps.json
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.runtimeconfig.json
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.dll
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.pdb
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.AssemblyInfoInputs.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.AssemblyInfo.cs
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.sourcelink.json
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.dll
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\LambdaExpressions\obj\Debug\net8.0\refint\LambdaExpressions.dll
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.pdb
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.genruntimeconfig.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\LambdaExpressions\obj\Debug\net8.0\ref\LambdaExpressions.dll

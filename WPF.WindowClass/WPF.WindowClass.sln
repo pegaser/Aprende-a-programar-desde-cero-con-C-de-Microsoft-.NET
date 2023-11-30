@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
@@ -17,9 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LifetimeWindow", "LifetimeW
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocationWindow", "LocationWindow\LocationWindow.csproj", "{B4A1D501-8E2D-4FD5-9A1F-F3E8E9D06EBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowStateExample", "WindowStateExample\WindowStateExample.csproj", "{3E412962-AB82-406C-A8BE-6E71F3129D58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindowStateExample", "WindowStateExample\WindowStateExample.csproj", "{3E412962-AB82-406C-A8BE-6E71F3129D58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowAppearance", "WindowAppearance\WindowAppearance.csproj", "{935FB23E-03B5-4D09-A827-938114935A70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindowAppearance", "WindowAppearance\WindowAppearance.csproj", "{935FB23E-03B5-4D09-A827-938114935A70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,17 +1,17 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingBlockingCollection", "UsingBlockingCollection\UsingBlockingCollection.csproj", "{A2DB954F-A50B-493E-8A94-EF04D9C01BC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingBlockingCollection", "UsingBlockingCollection\UsingBlockingCollection.csproj", "{A2DB954F-A50B-493E-8A94-EF04D9C01BC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingConcurrentBag", "UsingConcurrentBag\UsingConcurrentBag.csproj", "{1D4ECDE1-483F-450E-8EEF-275BE220A7A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingConcurrentBag", "UsingConcurrentBag\UsingConcurrentBag.csproj", "{1D4ECDE1-483F-450E-8EEF-275BE220A7A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingConcurrentDictionary", "UsingConcurrentDictionary\UsingConcurrentDictionary.csproj", "{89A70D47-EF28-411F-90D1-F279DECF981E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingConcurrentDictionary", "UsingConcurrentDictionary\UsingConcurrentDictionary.csproj", "{89A70D47-EF28-411F-90D1-F279DECF981E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingConcurrentQueue", "UsingConcurrentQueue\UsingConcurrentQueue.csproj", "{CBA138AB-0C40-4047-BA77-E540AC27321E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingConcurrentQueue", "UsingConcurrentQueue\UsingConcurrentQueue.csproj", "{CBA138AB-0C40-4047-BA77-E540AC27321E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingConcurrentStack", "UsingConcurrentStack\UsingConcurrentStack.csproj", "{FE123361-C888-4C4C-98AF-0ED9D3EE1CC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingConcurrentStack", "UsingConcurrentStack\UsingConcurrentStack.csproj", "{FE123361-C888-4C4C-98AF-0ED9D3EE1CC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

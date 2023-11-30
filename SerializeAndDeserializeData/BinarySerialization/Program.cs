@@ -14,8 +14,10 @@ namespace BinarySerialization
                 Id = 1,
                 Name = "Sergio Pérez"
             };
-            IFormatter formatter = new BinaryFormatter();
-            using (Stream stream = new FileStream(@"C:\Temp\data.bin", FileMode.Create))
+#pragma warning disable SYSLIB0011 // El tipo o el miembro están obsoletos
+			IFormatter formatter = new BinaryFormatter();
+#pragma warning restore SYSLIB0011 // El tipo o el miembro están obsoletos
+			using (Stream stream = new FileStream(@"C:\Temp\data.bin", FileMode.Create))
             {
 #pragma warning disable SYSLIB0011 // El tipo o el miembro están obsoletos
                 formatter.Serialize(stream, person);
@@ -38,8 +40,10 @@ namespace BinarySerialization
                 Id = 1,
                 Name = "Sergio Pérez"
             };
-            formatter = new BinaryFormatter();
-            using (Stream stream = new FileStream(@"C:\Temp\data.bin", FileMode.Create))
+#pragma warning disable SYSLIB0011 // El tipo o el miembro están obsoletos
+			formatter = new BinaryFormatter();
+#pragma warning restore SYSLIB0011 // El tipo o el miembro están obsoletos
+			using (Stream stream = new FileStream(@"C:\Temp\data.bin", FileMode.Create))
             {
 #pragma warning disable SYSLIB0011 // El tipo o el miembro están obsoletos
                 formatter.Serialize(stream, personcomplex);

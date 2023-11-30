@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UsingComments</name>
+    </assembly>
+    <members>
+        <member name="T:UsingComments.Point">
+            <summary>
+            Representa un punto.
+            </summary>
+        </member>
+        <member name="P:UsingComments.Point.X">
+            <value>Propiedad X correspondientre a la coordenada X</value>
+        </member>
+        <member name="P:UsingComments.Point.Y">
+            <value>Propiedad Y correspondientre a la coordenada Y</value>
+        </member>
+        <member name="M:UsingComments.Point.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Constructor de la clase <c>Point</c> que inicializa un nuevo punto a (<paramref name="x"/>,<paramref name="y"/>).
+            </summary>
+            <param name="x">Corresponde a la coordenada X del punto.</param>
+            <param name="y">Corresponde a la coordenada Y del punto.</param>
+        </member>
+        <member name="M:UsingComments.Point.GetCoordinates">
+            <summary>
+            Obtiene las coordenadas del punto
+            <example>Por ejemplo:
+            <code>
+            Point p = new Point(3,5);
+            p.GetCoordinates();
+            </code>
+            </example>
+            </summary>
+            <returns>Una cadena con las coordenadas del punto</returns>
+        </member>
+        <member name="M:UsingComments.Point.GetSimpleCoordinates">
+            <summary>
+            Obtiene las coordenadas del punto.
+            </summary>
+            <returns>Una cadena con las coordenadas del punto</returns>
+            <see cref="M:UsingComments.Point.GetCoordinates"/>
+        </member>
+    </members>
+</doc>

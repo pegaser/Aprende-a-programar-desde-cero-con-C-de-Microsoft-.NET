@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
@@ -27,7 +27,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingDelegatesWithLambda", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManuallyRisingEventExceptionHandling", "ManuallyRisingEventExceptionHandling\ManuallyRisingEventExceptionHandling.csproj", "{762BD9A3-E3E3-4917-A2BC-5F93DE27D7EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaHomework", "LambdaHomework\LambdaHomework.csproj", "{09F91217-06B5-4159-B911-B2C288D13A8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaHomework", "LambdaHomework\LambdaHomework.csproj", "{09F91217-06B5-4159-B911-B2C288D13A8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

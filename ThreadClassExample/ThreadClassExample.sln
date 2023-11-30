@@ -1,11 +1,11 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadClassExample", "ThreadClassExample\ThreadClassExample.csproj", "{DAD0E567-BEB9-4A5B-9685-E74C4E93FEBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadClassExample", "ThreadClassExample\ThreadClassExample.csproj", "{DAD0E567-BEB9-4A5B-9685-E74C4E93FEBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadClassExercise", "ThreadClassExercise\ThreadClassExercise.csproj", "{CE26F70C-3D29-4B4A-9BBA-94B8DCE53C35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadClassExercise", "ThreadClassExercise\ThreadClassExercise.csproj", "{CE26F70C-3D29-4B4A-9BBA-94B8DCE53C35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

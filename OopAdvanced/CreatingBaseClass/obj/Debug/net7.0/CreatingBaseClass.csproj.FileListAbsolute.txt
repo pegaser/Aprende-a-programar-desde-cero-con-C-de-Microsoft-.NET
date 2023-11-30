@@ -3,3 +3,4 @@ C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.N
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\OopAdvanced\CreatingBaseClass\obj\Debug\net7.0\CreatingBaseClass.AssemblyInfoInputs.cache
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\OopAdvanced\CreatingBaseClass\obj\Debug\net7.0\CreatingBaseClass.AssemblyInfo.cs
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\OopAdvanced\CreatingBaseClass\obj\Debug\net7.0\CreatingBaseClass.csproj.CoreCompileInputs.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\OopAdvanced\CreatingBaseClass\obj\Debug\net7.0\CreatingBaseClass.sourcelink.json

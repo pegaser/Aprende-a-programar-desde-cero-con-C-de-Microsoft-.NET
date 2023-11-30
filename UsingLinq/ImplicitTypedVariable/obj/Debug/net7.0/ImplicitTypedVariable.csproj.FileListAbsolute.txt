@@ -3,3 +3,4 @@ C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.N
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\ImplicitTypedVariable\obj\Debug\net7.0\ImplicitTypedVariable.AssemblyInfoInputs.cache
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\ImplicitTypedVariable\obj\Debug\net7.0\ImplicitTypedVariable.AssemblyInfo.cs
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\ImplicitTypedVariable\obj\Debug\net7.0\ImplicitTypedVariable.csproj.CoreCompileInputs.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\ImplicitTypedVariable\obj\Debug\net7.0\ImplicitTypedVariable.sourcelink.json

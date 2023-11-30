@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PlugInExample/1.0.0": {
+        "dependencies": {
+          "PlugInExampleApp": "1.0.0"
+        },
+        "runtime": {
+          "PlugInExample.dll": {}
+        }
+      },
+      "PlugInExampleApp/1.0.0": {
+        "runtime": {
+          "PlugInExampleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PlugInExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PlugInExampleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

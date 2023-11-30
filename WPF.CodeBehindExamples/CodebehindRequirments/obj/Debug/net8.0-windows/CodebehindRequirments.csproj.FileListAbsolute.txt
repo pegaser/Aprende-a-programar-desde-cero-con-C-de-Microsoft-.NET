@@ -1,0 +1,4 @@
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\WPF.CodeBehindExamples\CodebehindRequirments\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\WPF.CodeBehindExamples\CodebehindRequirments\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\WPF.CodeBehindExamples\CodebehindRequirments\obj\Debug\net8.0-windows\CodebehindRequirments_MarkupCompile.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\WPF.CodeBehindExamples\CodebehindRequirments\obj\Debug\net8.0-windows\CodebehindRequirments_MarkupCompile.lref

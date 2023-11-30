@@ -1,0 +1,15 @@
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Reflection\DefiningTargets\bin\Release\net8.0\DefiningTargets.exe
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Reflection\DefiningTargets\bin\Release\net8.0\DefiningTargets.deps.json
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Reflection\DefiningTargets\bin\Release\net8.0\DefiningTargets.runtimeconfig.json
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Reflection\DefiningTargets\bin\Release\net8.0\DefiningTargets.dll
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Reflection\DefiningTargets\bin\Release\net8.0\DefiningTargets.pdb
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Reflection\DefiningTargets\obj\Release\net8.0\DefiningTargets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Reflection\DefiningTargets\obj\Release\net8.0\DefiningTargets.AssemblyInfoInputs.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Reflection\DefiningTargets\obj\Release\net8.0\DefiningTargets.AssemblyInfo.cs
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Reflection\DefiningTargets\obj\Release\net8.0\DefiningTargets.csproj.CoreCompileInputs.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Reflection\DefiningTargets\obj\Release\net8.0\DefiningTargets.sourcelink.json
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Reflection\DefiningTargets\obj\Release\net8.0\DefiningTargets.dll
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Reflection\DefiningTargets\obj\Release\net8.0\refint\DefiningTargets.dll
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Reflection\DefiningTargets\obj\Release\net8.0\DefiningTargets.pdb
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Reflection\DefiningTargets\obj\Release\net8.0\DefiningTargets.genruntimeconfig.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Reflection\DefiningTargets\obj\Release\net8.0\ref\DefiningTargets.dll

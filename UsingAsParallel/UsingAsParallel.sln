@@ -1,11 +1,11 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingAsParallel", "UsingAsParallel\UsingAsParallel.csproj", "{18C46620-38AF-4110-A7F7-C26DBDBF249B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingAsParallel", "UsingAsParallel\UsingAsParallel.csproj", "{18C46620-38AF-4110-A7F7-C26DBDBF249B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatchingAggregateException", "CatchingAggregateException\CatchingAggregateException.csproj", "{DB2F745B-B64F-4966-B84F-A68D13E48273}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatchingAggregateException", "CatchingAggregateException\CatchingAggregateException.csproj", "{DB2F745B-B64F-4966-B84F-A68D13E48273}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderedParallelQuery", "OrderedParallelQuery\OrderedParallelQuery.csproj", "{B6247BFF-C82D-4C04-8ECB-98E1A988830D}"
 EndProject

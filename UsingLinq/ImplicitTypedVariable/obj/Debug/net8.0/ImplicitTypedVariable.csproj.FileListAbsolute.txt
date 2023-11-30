@@ -1,0 +1,5 @@
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\ImplicitTypedVariable\obj\Debug\net8.0\ImplicitTypedVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\ImplicitTypedVariable\obj\Debug\net8.0\ImplicitTypedVariable.AssemblyInfoInputs.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\ImplicitTypedVariable\obj\Debug\net8.0\ImplicitTypedVariable.AssemblyInfo.cs
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\ImplicitTypedVariable\obj\Debug\net8.0\ImplicitTypedVariable.csproj.CoreCompileInputs.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\ImplicitTypedVariable\obj\Debug\net8.0\ImplicitTypedVariable.sourcelink.json

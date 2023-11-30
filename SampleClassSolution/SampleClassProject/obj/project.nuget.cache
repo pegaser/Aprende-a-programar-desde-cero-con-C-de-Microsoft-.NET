@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "NoyRuwNknALdBRHznnEBYtWAdcawXSyEQSANSR2WzmupVdXJK/EHOteBZ13/Oqf1uXao3gcQnw8PGQ1jYEIODQ==",
+  "dgSpecHash": "HCTzE4gww3sYl1eJz9axeFVPouTCmbgKQSCuejeue/p7iMykBDrBG+xfLTS0D32kWNOIW0/85Cl+Lddxzz4kJg==",
   "success": true,
   "projectFilePath": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\SampleClassSolution\\SampleClassProject\\SampleClassProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\spere\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\spere\\.nuget\\packages\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers\\0.3.261602\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers.0.3.261602.nupkg.sha512",
-    "C:\\Users\\spere\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+    "C:\\Users\\spere\\.nuget\\packages\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers\\0.3.261602\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers.0.3.261602.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,23 +1,23 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingTasks", "UsingTasks\UsingTasks.csproj", "{10AFD2BA-CCBF-415F-8103-512D320A487F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingTasks", "UsingTasks\UsingTasks.csproj", "{10AFD2BA-CCBF-415F-8103-512D320A487F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingChildTasks", "UsingChildTasks\UsingChildTasks.csproj", "{8670C02A-929F-4126-8332-F04B588E6133}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingChildTasks", "UsingChildTasks\UsingChildTasks.csproj", "{8670C02A-929F-4126-8332-F04B588E6133}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingContinuationTasks", "UsingContinuationTasks\UsingContinuationTasks.csproj", "{07640F7E-87E2-4EF1-A02C-D40E1F2E98C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingContinuationTasks", "UsingContinuationTasks\UsingContinuationTasks.csproj", "{07640F7E-87E2-4EF1-A02C-D40E1F2E98C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingDifferentContinuationTasks", "UsingDifferentContinuationTasks\UsingDifferentContinuationTasks.csproj", "{F7AF5790-E9BF-43C5-9C3A-2F8A0AC67AD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingDifferentContinuationTasks", "UsingDifferentContinuationTasks\UsingDifferentContinuationTasks.csproj", "{F7AF5790-E9BF-43C5-9C3A-2F8A0AC67AD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingGenericTask", "UsingGenericTask\UsingGenericTask.csproj", "{6546B719-9E21-43F5-980A-1E8FEB72ED61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingGenericTask", "UsingGenericTask\UsingGenericTask.csproj", "{6546B719-9E21-43F5-980A-1E8FEB72ED61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingTaskFactory", "UsingTaskFactory\UsingTaskFactory.csproj", "{845584B4-749E-43D1-8A95-9DB4CA6497BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingTaskFactory", "UsingTaskFactory\UsingTaskFactory.csproj", "{845584B4-749E-43D1-8A95-9DB4CA6497BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingWaitAll", "UsingWaitAll\UsingWaitAll.csproj", "{E71D9748-7682-49C2-A39A-EA10DE1F4B62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingWaitAll", "UsingWaitAll\UsingWaitAll.csproj", "{E71D9748-7682-49C2-A39A-EA10DE1F4B62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingWaitAny", "UsingWaitAny\UsingWaitAny.csproj", "{BE9FC350-0946-4A32-8A38-9D0C93839B77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingWaitAny", "UsingWaitAny\UsingWaitAny.csproj", "{BE9FC350-0946-4A32-8A38-9D0C93839B77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

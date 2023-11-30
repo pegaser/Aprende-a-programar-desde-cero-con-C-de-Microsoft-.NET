@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
@@ -17,11 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingLinqQuery2", "UsingLin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeworkResolved", "HomeworkResolved\HomeworkResolved.csproj", "{A3B0C450-636C-4A50-B9BA-E115FE7ADF21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework", "Homework\Homework.csproj", "{659624A8-21C8-4B29-AEAC-1FD87443A605}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework", "Homework\Homework.csproj", "{659624A8-21C8-4B29-AEAC-1FD87443A605}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowDoesLinqWorks", "HowDoesLinqWorks\HowDoesLinqWorks.csproj", "{2A53179A-5FE2-4004-A69A-3DEC6254E9B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HowDoesLinqWorks", "HowDoesLinqWorks\HowDoesLinqWorks.csproj", "{2A53179A-5FE2-4004-A69A-3DEC6254E9B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToXml", "LinqToXml\LinqToXml.csproj", "{B00EA387-91F6-4DA2-8A15-FCC873327FC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqToXml", "LinqToXml\LinqToXml.csproj", "{B00EA387-91F6-4DA2-8A15-FCC873327FC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

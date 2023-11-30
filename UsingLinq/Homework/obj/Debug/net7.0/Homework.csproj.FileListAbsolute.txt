@@ -3,3 +3,4 @@ C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.N
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\Homework\obj\Debug\net7.0\Homework.AssemblyInfoInputs.cache
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\Homework\obj\Debug\net7.0\Homework.AssemblyInfo.cs
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\Homework\obj\Debug\net7.0\Homework.csproj.CoreCompileInputs.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\UsingLinq\Homework\obj\Debug\net7.0\Homework.sourcelink.json

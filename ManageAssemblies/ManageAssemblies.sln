@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31105.61
@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SigningAssemblies", "Signin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegularAssembly", "RegularAssemby\RegularAssembly.csproj", "{5BBEB4E7-A1B6-477F-BA2D-796E8313D012}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyExample", "AssemblyExample\AssemblyExample.csproj", "{615E51AA-E1FD-4463-999A-D07BA457CB17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssemblyExample", "AssemblyExample\AssemblyExample.csproj", "{615E51AA-E1FD-4463-999A-D07BA457CB17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

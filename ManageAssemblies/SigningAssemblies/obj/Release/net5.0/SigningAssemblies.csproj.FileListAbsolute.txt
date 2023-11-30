@@ -1,5 +1,0 @@
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ManageAssemblies\SigningAssemblies\obj\Release\net5.0\SigningAssemblies.csproj.AssemblyReference.cache
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ManageAssemblies\SigningAssemblies\obj\Release\net5.0\SigningAssemblies.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ManageAssemblies\SigningAssemblies\obj\Release\net5.0\SigningAssemblies.AssemblyInfoInputs.cache
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ManageAssemblies\SigningAssemblies\obj\Release\net5.0\SigningAssemblies.AssemblyInfo.cs
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ManageAssemblies\SigningAssemblies\obj\Release\net5.0\SigningAssemblies.csproj.CoreCompileInputs.cache

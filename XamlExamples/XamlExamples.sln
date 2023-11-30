@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
@@ -31,7 +31,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NamedElements", "NamedEleme
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AttachedProperties", "AttachedProperties\AttachedProperties.csproj", "{B5128814-0370-4FED-B207-D948EC52AFCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadingXamlFromCode", "LoadingXamlFromCode\LoadingXamlFromCode.csproj", "{558CF6CF-A516-4880-BAE4-F2436FB159E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoadingXamlFromCode", "LoadingXamlFromCode\LoadingXamlFromCode.csproj", "{558CF6CF-A516-4880-BAE4-F2436FB159E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

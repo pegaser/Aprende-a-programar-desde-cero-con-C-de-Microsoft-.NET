@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UsBvJw6VQCSqBJ64ZASaAA4FdR6kNijhJwSfl2N7iqW7BywxBsIMUPi2yMv7AI9GyqcXxF2Xw8vTI/SuCBMGAw==",
+  "dgSpecHash": "/Xt6CW9YJT5/QgkTHmhtV3A35V5FYDoIWStQcrdUv/fsAQczqwf40WeVe4fi/Mdh8QCbOg1xwyY/vlSZX6mLbQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\PerformIO\\SettAccessControl\\SettAccessControl.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\spere\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
-    "C:\\Users\\spere\\.nuget\\packages\\system.io.filesystem.accesscontrol\\5.0.0\\system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512",
-    "C:\\Users\\spere\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
-    "C:\\Users\\spere\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

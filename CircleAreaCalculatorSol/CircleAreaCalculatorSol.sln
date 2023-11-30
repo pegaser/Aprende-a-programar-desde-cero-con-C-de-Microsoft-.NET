@@ -1,13 +1,13 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CircleAreaCalculator", "CircleAreaCalculator\CircleAreaCalculator.csproj", "{5AF0C737-34B9-46CC-B5CB-44A377605BB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkSection3", "HomeworkSection3\HomeworkSection3.csproj", "{F4AFBF92-6D23-4C71-B8CD-EF909200EC0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeworkSection3", "HomeworkSection3\HomeworkSection3.csproj", "{F4AFBF92-6D23-4C71-B8CD-EF909200EC0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkSection3Resolved", "HomeworkSection3Resolved\HomeworkSection3Resolved.csproj", "{AD214B98-4F67-41DD-BFDB-2688E0D0B72A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeworkSection3Resolved", "HomeworkSection3Resolved\HomeworkSection3Resolved.csproj", "{AD214B98-4F67-41DD-BFDB-2688E0D0B72A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

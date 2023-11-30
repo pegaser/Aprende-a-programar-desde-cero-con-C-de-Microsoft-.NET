@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackAndQueues", "StackAndQueues\StackAndQueues.csproj", "{222DE5BE-DC99-4945-B8B6-E60B41679454}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackAndQueues", "StackAndQueues\StackAndQueues.csproj", "{222DE5BE-DC99-4945-B8B6-E60B41679454}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF.DialogBoxHomework", "WPF.DialogBoxHomework\WPF.DialogBoxHomework.csproj", "{59C19394-3951-4A81-BB38-6DB418EA9359}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPF.DialogBoxHomework", "WPF.DialogBoxHomework\WPF.DialogBoxHomework.csproj", "{59C19394-3951-4A81-BB38-6DB418EA9359}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,3 +1,4 @@
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\SampleClassSolution\SampleAbstract\obj\Debug\net7.0\SampleAbstract.csproj.AssemblyReference.cache
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\SampleClassSolution\SampleAbstract\obj\Debug\net7.0\SampleAbstract.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\SampleClassSolution\SampleAbstract\obj\Debug\net7.0\SampleAbstract.csproj.CoreCompileInputs.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\SampleClassSolution\SampleAbstract\obj\Debug\net7.0\SampleAbstract.sourcelink.json

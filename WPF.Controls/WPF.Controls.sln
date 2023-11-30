@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
@@ -23,9 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Documents", "Documents\Docu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inputs", "Inputs\Inputs.csproj", "{AEF01586-46D0-4452-A6D2-4C6A919B7E5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media", "Media\Media.csproj", "{70771000-7163-4A03-83EA-CEB1822B3275}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Media", "Media\Media.csproj", "{70771000-7163-4A03-83EA-CEB1822B3275}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InkDigital", "InkDigital\InkDigital.csproj", "{23E45CA6-E4F0-4AB0-A6F8-F982D94D5D9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InkDigital", "InkDigital\InkDigital.csproj", "{23E45CA6-E4F0-4AB0-A6F8-F982D94D5D9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

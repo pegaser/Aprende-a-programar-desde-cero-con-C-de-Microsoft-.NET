@@ -1,5 +1,0 @@
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ManageAssemblies\RegularAssemby\bin\Release\net5.0\publish\RegularAssembly.exe
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ManageAssemblies\RegularAssemby\bin\Release\net5.0\publish\RegularAssembly.dll
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ManageAssemblies\RegularAssemby\bin\Release\net5.0\publish\RegularAssembly.deps.json
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ManageAssemblies\RegularAssemby\bin\Release\net5.0\publish\RegularAssembly.runtimeconfig.json
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ManageAssemblies\RegularAssemby\bin\Release\net5.0\publish\RegularAssembly.pdb

@@ -3,3 +3,4 @@ C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.N
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\OopAdvanced\ImplementingIEnumerable\obj\Debug\net7.0\ImplementingIEnumerable.AssemblyInfoInputs.cache
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\OopAdvanced\ImplementingIEnumerable\obj\Debug\net7.0\ImplementingIEnumerable.AssemblyInfo.cs
 C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\OopAdvanced\ImplementingIEnumerable\obj\Debug\net7.0\ImplementingIEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\OopAdvanced\ImplementingIEnumerable\obj\Debug\net7.0\ImplementingIEnumerable.sourcelink.json

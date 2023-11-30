@@ -1,5 +1,0 @@
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ConsumeData\ConsumingXml\obj\Debug\net6.0\ConsumingXml.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ConsumeData\ConsumingXml\obj\Debug\net6.0\ConsumingXml.AssemblyInfoInputs.cache
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ConsumeData\ConsumingXml\obj\Debug\net6.0\ConsumingXml.AssemblyInfo.cs
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ConsumeData\ConsumingXml\obj\Debug\net6.0\ConsumingXml.csproj.CoreCompileInputs.cache
-C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\ConsumeData\ConsumingXml\obj\Debug\net6.0\ConsumingXml.csproj.AssemblyReference.cache

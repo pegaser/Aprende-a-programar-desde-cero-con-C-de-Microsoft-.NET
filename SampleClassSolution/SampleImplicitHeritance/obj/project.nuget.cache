@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "LDlaA9ta9vU9FAz+J61y6HsJV67mfdrKQdLiTthWyIrruqPb0CNGFsyVKsgenQMV930J8fqNqnqE0wolnF50EA==",
+  "dgSpecHash": "T9siA4nHPos3n5sLMKIo3W9iHZpIFSTjgydfB+85EQZIq/dH/o3N3Wmkhw0C2FaRHekhNzJ6wF9KSBzO2qJXuA==",
   "success": true,
   "projectFilePath": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\SampleClassSolution\\SampleImplicitHeritance\\SampleImplicitHeritance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\spere\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\spere\\.nuget\\packages\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers\\0.3.261602\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers.0.3.261602.nupkg.sha512",
-    "C:\\Users\\spere\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+    "C:\\Users\\spere\\.nuget\\packages\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers\\0.3.261602\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers.0.3.261602.nupkg.sha512"
   ],
   "logs": []
 }

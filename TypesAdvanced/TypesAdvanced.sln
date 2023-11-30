@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
@@ -21,9 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingSealedKeyword", "Using
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingWhereClause", "UsingWhereClause\UsingWhereClause.csproj", "{0EDED48F-CCC1-49EB-B845-A76EDDAE0A80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework2", "Homework2\Homework2.csproj", "{EF33C000-5F1A-430F-8986-1EE2E8248F28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework2", "Homework2\Homework2.csproj", "{EF33C000-5F1A-430F-8986-1EE2E8248F28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework2_Resolved", "Homework2_Resolved\Homework2_Resolved.csproj", "{919E8C28-DE36-4B5F-A43F-CD421CCE4EBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework2_Resolved", "Homework2_Resolved\Homework2_Resolved.csproj", "{919E8C28-DE36-4B5F-A43F-CD421CCE4EBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

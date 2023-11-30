@@ -1,27 +1,27 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessingSharedData", "AccessingSharedData\AccessingSharedData.csproj", "{F13DA075-9E1F-4A0E-97D8-54F869785B63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessingSharedData", "AccessingSharedData\AccessingSharedData.csproj", "{F13DA075-9E1F-4A0E-97D8-54F869785B63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatingDeadlock", "CreatingDeadlock\CreatingDeadlock.csproj", "{64AD690E-1A93-44CA-89BF-53311AE15316}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreatingDeadlock", "CreatingDeadlock\CreatingDeadlock.csproj", "{64AD690E-1A93-44CA-89BF-53311AE15316}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeNnonatomicOperation", "ExchangeNnonatomicOperation\ExchangeNnonatomicOperation.csproj", "{F9A7EEB7-6E92-4F18-BEB5-EEAEA7F7460D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExchangeNnonatomicOperation", "ExchangeNnonatomicOperation\ExchangeNnonatomicOperation.csproj", "{F9A7EEB7-6E92-4F18-BEB5-EEAEA7F7460D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework", "Homework\Homework.csproj", "{1FA6B40B-4E63-42E9-BE05-B38ACD0FC5DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework", "Homework\Homework.csproj", "{1FA6B40B-4E63-42E9-BE05-B38ACD0FC5DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SettingTimeoutOnTask", "SettingTimeoutOnTask\SettingTimeoutOnTask.csproj", "{3290E3F4-3198-4C27-B268-DB7646960114}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SettingTimeoutOnTask", "SettingTimeoutOnTask\SettingTimeoutOnTask.csproj", "{3290E3F4-3198-4C27-B268-DB7646960114}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThrowingOperationCanceledException", "ThrowingOperationCanceledException\ThrowingOperationCanceledException.csproj", "{259805D4-8C0E-4723-88A3-89BCE5FACE66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThrowingOperationCanceledException", "ThrowingOperationCanceledException\ThrowingOperationCanceledException.csproj", "{259805D4-8C0E-4723-88A3-89BCE5FACE66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingCancellationToken", "UsingCancellationToken\UsingCancellationToken.csproj", "{6DEF7D63-8497-419A-B035-BBBCFF42291A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingCancellationToken", "UsingCancellationToken\UsingCancellationToken.csproj", "{6DEF7D63-8497-419A-B035-BBBCFF42291A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingInterlockedClass", "UsingInterlockedClass\UsingInterlockedClass.csproj", "{CD7A338F-F912-4824-81FF-48670BCD3F17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingInterlockedClass", "UsingInterlockedClass\UsingInterlockedClass.csproj", "{CD7A338F-F912-4824-81FF-48670BCD3F17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingThelockKeyword", "UsingThelockKeyword\UsingThelockKeyword.csproj", "{C421DCBA-1326-4214-B2F3-108B2C65D4FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingThelockKeyword", "UsingThelockKeyword\UsingThelockKeyword.csproj", "{C421DCBA-1326-4214-B2F3-108B2C65D4FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolatileClass", "VolatileClass\VolatileClass.csproj", "{1434ACD3-18C6-4477-BFE0-AFB091B9A8BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VolatileClass", "VolatileClass\VolatileClass.csproj", "{1434ACD3-18C6-4477-BFE0-AFB091B9A8BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
