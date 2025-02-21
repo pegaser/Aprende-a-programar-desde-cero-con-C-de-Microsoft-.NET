@@ -1,0 +1,31 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BlazorApp1.Client
+build_property.RootNamespace = BlazorApp1.Client
+build_property.ProjectDir = C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\BlazorApp1\BlazorApp1\BlazorApp1.Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\BlazorApp1\BlazorApp1\BlazorApp1.Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/spere/source/repos/Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET/BlazorApp1/BlazorApp1/BlazorApp1.Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/spere/source/repos/Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET/BlazorApp1/BlazorApp1/BlazorApp1.Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,7 @@
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Blazor.Startup.Example\Blazor.Startup.Example\Blazor.Startup.Example\obj\Debug\net8.0\Blazor.Startup.Example.csproj.AssemblyReference.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Blazor.Startup.Example\Blazor.Startup.Example\Blazor.Startup.Example\obj\Debug\net8.0\Blazor.Startup.Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Blazor.Startup.Example\Blazor.Startup.Example\Blazor.Startup.Example\obj\Debug\net8.0\Blazor.Startup.Example.AssemblyInfoInputs.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Blazor.Startup.Example\Blazor.Startup.Example\Blazor.Startup.Example\obj\Debug\net8.0\Blazor.Startup.Example.AssemblyInfo.cs
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Blazor.Startup.Example\Blazor.Startup.Example\Blazor.Startup.Example\obj\Debug\net8.0\Blazor.Startup.Example.csproj.CoreCompileInputs.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Blazor.Startup.Example\Blazor.Startup.Example\Blazor.Startup.Example\obj\Debug\net8.0\Blazor.Startup.Example.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Blazor.Startup.Example\Blazor.Startup.Example\Blazor.Startup.Example\obj\Debug\net8.0\Blazor.Startup.Example.sourcelink.json

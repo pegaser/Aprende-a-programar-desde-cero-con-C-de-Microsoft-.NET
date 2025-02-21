@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\Blazor.Startup.Example\\BlazorStartup.Example.Wasm\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\Blazor.Startup.Example\\BlazorStartup.Example.Wasm\\obj\\Debug\\net8.0\\compressed\\h6x3nhet1l.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\Blazor.Startup.Example\\BlazorStartup.Example.Wasm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorStartup.Example.Wasm.styles.css",
+      "PackagePath": "staticwebassets\\BlazorStartup.Example.Wasm.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\Blazor.Startup.Example\\BlazorStartup.Example.Wasm\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\Blazor.Startup.Example\\BlazorStartup.Example.Wasm\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\Blazor.Startup.Example\\BlazorStartup.Example.Wasm\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\Blazor.Startup.Example\\BlazorStartup.Example.Wasm\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\Blazor.Startup.Example\\BlazorStartup.Example.Wasm\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\Blazor.Startup.Example\\BlazorStartup.Example.Wasm\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\Blazor.Startup.Example\\BlazorStartup.Example.Wasm\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorStartup.Example.Wasm.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorStartup.Example.Wasm.props",
+      "PackagePath": "build\\BlazorStartup.Example.Wasm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorStartup.Example.Wasm.props",
+      "PackagePath": "buildMultiTargeting\\BlazorStartup.Example.Wasm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorStartup.Example.Wasm.props",
+      "PackagePath": "buildTransitive\\BlazorStartup.Example.Wasm.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

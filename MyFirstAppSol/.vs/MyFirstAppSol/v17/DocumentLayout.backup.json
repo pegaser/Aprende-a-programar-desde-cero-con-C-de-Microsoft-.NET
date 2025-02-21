@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\MyFirstAppSol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48C89443-A5DF-4FE8-B24C-0DD144F60145}|MyFirstApp\\MyFirstApp.csproj|c:\\users\\spere\\source\\repos\\aprende-a-programar-desde-cero-con-c-de-microsoft-.net\\myfirstappsol\\myfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C89443-A5DF-4FE8-B24C-0DD144F60145}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58265754-4DCE-400F-84BD-21723FA2E8C6}|MySecondApp\\MySecondApp.csproj|c:\\users\\spere\\source\\repos\\aprende-a-programar-desde-cero-con-c-de-microsoft-.net\\myfirstappsol\\mysecondapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58265754-4DCE-400F-84BD-21723FA2E8C6}|MySecondApp\\MySecondApp.csproj|solutionrelative:mysecondapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\MyFirstAppSol\\MySecondApp\\Program.cs",
+              "RelativeDocumentMoniker": "MySecondApp\\Program.cs",
+              "ToolTip": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\MyFirstAppSol\\MySecondApp\\Program.cs",
+              "RelativeToolTip": "MySecondApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-29T18:38:15.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\MyFirstAppSol\\MyFirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\Program.cs",
+              "ToolTip": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\MyFirstAppSol\\MyFirstApp\\Program.cs",
+              "RelativeToolTip": "MyFirstApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-29T18:26:55.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

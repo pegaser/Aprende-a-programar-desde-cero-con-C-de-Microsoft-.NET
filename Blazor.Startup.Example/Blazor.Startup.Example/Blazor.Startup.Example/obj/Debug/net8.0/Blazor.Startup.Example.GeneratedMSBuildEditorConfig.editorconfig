@@ -1,0 +1,31 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Blazor.Startup.Example
+build_property.RootNamespace = Blazor.Startup.Example
+build_property.ProjectDir = C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Blazor.Startup.Example\Blazor.Startup.Example\Blazor.Startup.Example\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\spere\source\repos\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\Blazor.Startup.Example\Blazor.Startup.Example\Blazor.Startup.Example
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/spere/source/repos/Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET/Blazor.Startup.Example/Blazor.Startup.Example/Blazor.Startup.Example/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/spere/source/repos/Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET/Blazor.Startup.Example/Blazor.Startup.Example/Blazor.Startup.Example/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/spere/source/repos/Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET/Blazor.Startup.Example/Blazor.Startup.Example/Blazor.Startup.Example/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
