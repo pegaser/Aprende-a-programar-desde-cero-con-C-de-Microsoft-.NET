@@ -7,3 +7,7 @@
 /BlazorApp1/.vs
 /HelloWPF.DotNet7/.vs
 /ConsoleAppSol/ConsoleAppSol.sln
+/ChangeFrameworkDotNet.ps1
+/CompileSlnx.ps1
+/ConvertSlnToSlnx.ps1
+/DeleteAllBinAndObjFolders.ps1
