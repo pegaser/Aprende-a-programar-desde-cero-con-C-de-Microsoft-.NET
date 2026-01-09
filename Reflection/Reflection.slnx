@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="ApplyingAttribute/ApplyingAttribute.csproj" />
+  <Project Path="AttributesExercise/AttributesExercise.csproj" />
+  <Project Path="BasicExampleReflection/BasicExampleReflection.csproj" />
+  <Project Path="CodeDomExample/CodeDomExample.csproj" />
+  <Project Path="CreatingCustomAttribute/CreatingCustomAttribute.csproj" />
+  <Project Path="DefiningTargets/DefiningTargets.csproj" />
+  <Project Path="ExecutingMethod/ExecutingMethod.csproj" />
+  <Project Path="PlugInExample/PlugInExample.csproj" />
+  <Project Path="PlugInExampleApp/PlugInExampleApp.csproj" />
+  <Project Path="UsingCategoryAttribute/UsingCategoryAttribute.csproj" />
+  <Project Path="UsingMultipleAttributes/UsingMultipleAttributes.csproj" />
+</Solution>

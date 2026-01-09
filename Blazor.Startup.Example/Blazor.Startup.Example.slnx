@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Blazor.Startup.Example/Blazor.Startup.Example.Client/Blazor.Startup.Example.Client.csproj" />
+  <Project Path="Blazor.Startup.Example/Blazor.Startup.Example/Blazor.Startup.Example.csproj" />
+  <Project Path="BlazorStartup.Example.Wasm/BlazorStartup.Example.Wasm.csproj" />
+</Solution>

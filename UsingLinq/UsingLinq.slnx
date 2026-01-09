@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="ExtensionMethodsAnonymousTypes/ExtensionMethodsAnonymousTypes.csproj" />
+  <Project Path="Homework/Homework.csproj" />
+  <Project Path="HomeworkResolved/HomeworkResolved.csproj" />
+  <Project Path="HowDoesLinqWorks/HowDoesLinqWorks.csproj" />
+  <Project Path="ImplicitTypedVariable/ImplicitTypedVariable.csproj" />
+  <Project Path="LambdaExpressions/LambdaExpressions.csproj" />
+  <Project Path="LinqToXml/LinqToXml.csproj" />
+  <Project Path="ObjectInitializationSyntax/ObjectInitializationSyntax.csproj" />
+  <Project Path="UsingLinqQuery/UsingLinqQuery.csproj" />
+  <Project Path="UsingLinqQuery2/UsingLinqQuery2.csproj" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CatchingAggregateException/CatchingAggregateException.csproj" />
+  <Project Path="OrderedParallelQuery/OrderedParallelQuery.csproj" />
+  <Project Path="ParallelQuerySequential/ParallelQuerySequential.csproj" />
+  <Project Path="UsingAsParallel/UsingAsParallel.csproj" />
+  <Project Path="UsingForAll/UsingForAll.csproj" />
+</Solution>

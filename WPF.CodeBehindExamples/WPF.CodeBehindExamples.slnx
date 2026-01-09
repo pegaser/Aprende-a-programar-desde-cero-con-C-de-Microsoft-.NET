@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CodeBehindAndXaml/CodeBehindAndXaml.csproj" />
+  <Project Path="CodebehindRequirments/CodebehindRequirments.csproj" />
+  <Project Path="XCodeExample/XCodeExample.csproj" />
+</Solution>

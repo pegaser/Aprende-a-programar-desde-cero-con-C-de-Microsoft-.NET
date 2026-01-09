@@ -1,0 +1,15 @@
+<Solution>
+  <Project Path="ContravarianceDelegate/ContravarianceDelegate.csproj" />
+  <Project Path="CovarianceDelegate/CovarianceDelegate.csproj" />
+  <Project Path="CustomEventAccessor/CustomEventAccessor.csproj" />
+  <Project Path="CustomEventArguments/CustomEventArguments.csproj" />
+  <Project Path="DelegateHomework/DelegateHomework.csproj" />
+  <Project Path="ExceptionRaisingEvent/ExceptionRaisingEvent.csproj" />
+  <Project Path="ExposeAnEvent/ExposeAnEvent.csproj" />
+  <Project Path="LambdaHomework/LambdaHomework.csproj" />
+  <Project Path="ManuallyRisingEventExceptionHandling/ManuallyRisingEventExceptionHandling.csproj" />
+  <Project Path="MulticastDelegate/MulticastDelegate.csproj" />
+  <Project Path="UsingActionDelegate/UsingActionDelegate.csproj" />
+  <Project Path="UsingDelegates/UsingDelegates.csproj" />
+  <Project Path="UsingDelegatesWithLambda/UsingDelegatesWithLambda.csproj" />
+</Solution>

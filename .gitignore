@@ -1,6 +1,16 @@
 ﻿################################################################################
 # Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
 ################################################################################
+# Visual Studio / .NET build outputs
+**/bin/
+**/obj/
+
+# Blazor/WebAssembly framework artifacts
+**/wwwroot/_framework/*.wasm
+**/wwwroot/_framework/*.wasm.gz
+
+# NuGet / caches
+*.nupkg
 
 /ClassPracticeOld
 /Blazor.Startup.Example/.vs

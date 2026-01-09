@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="BuildingDirectoryTree/BuildingDirectoryTree.csproj" />
+  <Project Path="CreateUseFileStream/CreateUseFileStream.csproj" />
+  <Project Path="CreatingNewDirectory/CreatingNewDirectory.csproj" />
+  <Project Path="DeletingFile/DeletingFile.csproj" />
+  <Project Path="ExecutingWebRequest/ExecutingWebRequest.csproj" />
+  <Project Path="FileSystemIsNotJustForYou/FileSystemIsNotJustForYou.csproj" />
+  <Project Path="Homework/Homework.csproj" />
+  <Project Path="HomeworkResolved/HomeworkResolved.csproj" />
+  <Project Path="ListingAllFilesInDirectory/ListingAllFilesInDirectory.csproj" />
+  <Project Path="ListingDriveInfo/ListingDriveInfo.csproj" />
+  <Project Path="MovingDirectory/MovingDirectory.csproj" />
+  <Project Path="SettAccessControl/SettAccessControl.csproj" />
+  <Project Path="UsingPath/UsingPath.csproj" />
+  <Project Path="WpfApp1/WpfApp1.csproj" />
+  <Project Path="WritingAsynchronouslyToFile/WritingAsynchronouslyToFile.csproj" />
+</Solution>

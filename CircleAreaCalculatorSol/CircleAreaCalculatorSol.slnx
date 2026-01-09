@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CircleAreaCalculator/CircleAreaCalculator.csproj" />
+  <Project Path="HomeworkSection3/HomeworkSection3.csproj" />
+  <Project Path="HomeworkSection3Resolved/HomeworkSection3Resolved.csproj" />
+</Solution>

@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="ConfiguringTraceListener/ConfiguringTraceListener.csproj" />
+  <Project Path="HomeworkResolved/HomeworkResolved.csproj" />
+  <Project Path="ReadingDataFromEventLog/ReadingDataFromEventLog..csproj" />
+  <Project Path="ReadingFromPerformanceCounter/ReadingFromPerformanceCounter.csproj" />
+  <Project Path="ReadingFromPerformanceCounter2/ReadingFromPerformanceCounter2.csproj" />
+  <Project Path="UsingDebugClass/UsingDebugClass.csproj" />
+  <Project Path="UsingStopWatchClass/UsingStopWatchClass.csproj" />
+  <Project Path="UsingTraceSourceClass/UsingTraceSourceClass.csproj" />
+  <Project Path="WritingDataToEventLog/WritingDataToEventLog.csproj" />
+  <Project Path="WritingDataToEventLog2/WritingDataToEventLog2.csproj" />
+</Solution>

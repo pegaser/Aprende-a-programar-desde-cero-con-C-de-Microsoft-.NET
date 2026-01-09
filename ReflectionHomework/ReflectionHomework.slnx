@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MyClassLibrary/MyClassLibrary.csproj" />
+  <Project Path="ReflectionHomework/ReflectionHomework.csproj" />
+</Solution>

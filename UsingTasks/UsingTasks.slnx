@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="UsingChildTasks/UsingChildTasks.csproj" />
+  <Project Path="UsingContinuationTasks/UsingContinuationTasks.csproj" />
+  <Project Path="UsingDifferentContinuationTasks/UsingDifferentContinuationTasks.csproj" />
+  <Project Path="UsingGenericTask/UsingGenericTask.csproj" />
+  <Project Path="UsingTaskFactory/UsingTaskFactory.csproj" />
+  <Project Path="UsingTasks/UsingTasks.csproj" />
+  <Project Path="UsingWaitAll/UsingWaitAll.csproj" />
+  <Project Path="UsingWaitAny/UsingWaitAny.csproj" />
+</Solution>

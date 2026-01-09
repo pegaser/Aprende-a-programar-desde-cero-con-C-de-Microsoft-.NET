@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="AccessingSharedData/AccessingSharedData.csproj" />
+  <Project Path="CreatingDeadlock/CreatingDeadlock.csproj" />
+  <Project Path="ExchangeNnonatomicOperation/ExchangeNnonatomicOperation.csproj" />
+  <Project Path="Homework/Homework.csproj" />
+  <Project Path="SettingTimeoutOnTask/SettingTimeoutOnTask.csproj" />
+  <Project Path="ThrowingOperationCanceledException/ThrowingOperationCanceledException.csproj" />
+  <Project Path="UsingCancellationToken/UsingCancellationToken.csproj" />
+  <Project Path="UsingInterlockedClass/UsingInterlockedClass.csproj" />
+  <Project Path="UsingThelockKeyword/UsingThelockKeyword.csproj" />
+  <Project Path="VolatileClass/VolatileClass.csproj" />
+</Solution>

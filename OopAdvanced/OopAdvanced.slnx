@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="AddingSetAccessorToInterface/AddingSetAccessorToInterface.csproj" />
+  <Project Path="CreatingAbstractClass/CreatingAbstractClass.csproj" />
+  <Project Path="CreatingBaseClass/CreatingBaseClass.csproj" />
+  <Project Path="EnumeratorForeach/EnumeratorForeach.csproj" />
+  <Project Path="GenericInterface/GenericInterface.csproj" />
+  <Project Path="ImplementingIComparable/ImplementingIComparable.csproj" />
+  <Project Path="ImplementingIEnumerable/ImplementingIEnumerable.csproj" />
+  <Project Path="ImplementingInterface/ImplementingInterface.csproj" />
+  <Project Path="InstantiatingInterface/InstantiatingInterface.csproj" />
+  <Project Path="InterfacesAndBaseClassesExercise/InterfacesAndBaseClassesExercise.csproj" />
+  <Project Path="InterfacesExercise/InterfacesExercise.csproj" />
+  <Project Path="RectangleClassWithAreaCalculation/RectangleClassWithAreaCalculation.csproj" />
+</Solution>

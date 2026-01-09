@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="BinarySerialization/BinarySerialization.csproj" />
+  <Project Path="Homework/Homework.csproj" />
+  <Project Path="HomeworkResolved/HomeworkResolved.csproj" />
+  <Project Path="HomeworkResolvedClient/HomeworkResolvedClient.csproj" />
+  <Project Path="UsingDataContract/UsingDataContract.csproj" />
+  <Project Path="UsingJsonSerializer/UsingJsonSerializer.csproj" />
+  <Project Path="UsingXmlSerializer/UsingXmlSerializer.csproj" />
+  <Project Path="UsingXmlSerielizer2/UsingXmlSerielizer2.csproj" />
+</Solution>

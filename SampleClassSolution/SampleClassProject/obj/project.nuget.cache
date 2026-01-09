@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "HCTzE4gww3sYl1eJz9axeFVPouTCmbgKQSCuejeue/p7iMykBDrBG+xfLTS0D32kWNOIW0/85Cl+Lddxzz4kJg==",
+  "dgSpecHash": "X/lGzXX7ZYQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\SampleClassSolution\\SampleClassProject\\SampleClassProject.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\spere\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\spere\\.nuget\\packages\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers\\0.3.261602\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers.0.3.261602.nupkg.sha512"
   ],
   "logs": []

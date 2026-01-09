@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CommonDialogBoxes/CommonDialogBoxes.csproj" />
+  <Project Path="CustomDialogBox/CustomDialogBox.csproj" />
+  <Project Path="MessageBoxes/MessageBoxes.csproj" />
+  <Project Path="OthersElements/OthersElements.csproj" />
+</Solution>

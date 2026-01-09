@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="AttachedProperties/AttachedProperties.csproj" />
+  <Project Path="CaseAndWhiteSpace/CaseAndWhiteSpace.csproj" />
+  <Project Path="CollectionSyntax/CollectionSyntax.csproj" />
+  <Project Path="ContentPropertiesSyntax/ContentPropertiesSyntax.csproj" />
+  <Project Path="CustomTypesAndPrefix/CustomTypesAndPrefix.csproj" />
+  <Project Path="EventsAndCodebehind/EventsAndCodebehind.csproj" />
+  <Project Path="EventsAsAttributeExample/EventsAsAttributeExample.csproj" />
+  <Project Path="LoadingXamlFromCode/LoadingXamlFromCode.csproj" />
+  <Project Path="MarkupExtensions/MarkupExtensions.csproj" />
+  <Project Path="NamedElements/NamedElements.csproj" />
+  <Project Path="PropertyElementSyntax/PropertyElementSyntax.csproj" />
+  <Project Path="RootElementsAndNamespaces/RootElementsAndNamespaces.csproj" />
+  <Project Path="TextContentExample/TextContentExample.csproj" />
+  <Project Path="TypeConverters/TypeConverters.csproj" />
+  <Project Path="WhatIsXaml/WhatIsXaml.csproj" />
+</Solution>

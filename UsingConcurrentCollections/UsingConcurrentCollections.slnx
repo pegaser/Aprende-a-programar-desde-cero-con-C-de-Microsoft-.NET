@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="UsingBlockingCollection/UsingBlockingCollection.csproj" />
+  <Project Path="UsingConcurrentBag/UsingConcurrentBag.csproj" />
+  <Project Path="UsingConcurrentDictionary/UsingConcurrentDictionary.csproj" />
+  <Project Path="UsingConcurrentQueue/UsingConcurrentQueue.csproj" />
+  <Project Path="UsingConcurrentStack/UsingConcurrentStack.csproj" />
+</Solution>

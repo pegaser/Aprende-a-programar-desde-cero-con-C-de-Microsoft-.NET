@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MyPlugin/MyPlugin.csproj" />
+  <Project Path="ProjectPlugInExample/ProjectPlugInExample.csproj" />
+</Solution>

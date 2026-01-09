@@ -1,11 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "t9RtKdfA5MGbiLE+SGPVXIV1p8ND1GsYXXT3T7Oki38+OanUcCT3cnrf+ae9U0YR5eEoinCoxn1VhC/2XRPoyg==",
+  "dgSpecHash": "HNL0PXs2I+E=",
   "success": true,
   "projectFilePath": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\SampleClassSolution\\SampleDelegate\\SampleDelegate.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\spere\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\spere\\.nuget\\packages\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers\\0.3.261602\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers.0.3.261602.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.CSharp no se eliminará. Considere la posibilidad de quitar este paquete de las dependencias, ya que es probable que no sea necesario.",
+      "projectPath": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\SampleClassSolution\\SampleDelegate\\SampleDelegate.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\spere\\source\\repos\\Aprende-a-programar-desde-cero-con-C-de-Microsoft-.NET\\SampleClassSolution\\SampleDelegate\\SampleDelegate.csproj",
+      "libraryId": "Microsoft.CSharp",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

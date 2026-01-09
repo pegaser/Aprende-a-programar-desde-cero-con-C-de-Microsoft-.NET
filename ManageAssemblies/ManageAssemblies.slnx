@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AssemblyExample/AssemblyExample.csproj" />
+  <Project Path="RegularAssemby/RegularAssembly.csproj" />
+  <Project Path="SigningAssemblies/SigningAssemblies.csproj" />
+</Solution>

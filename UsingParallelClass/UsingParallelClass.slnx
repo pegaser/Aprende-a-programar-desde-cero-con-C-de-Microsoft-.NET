@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="UsingParallelBreak/UsingParallelBreak.csproj" />
+  <Project Path="UsingParallelClass/UsingParallelClass.csproj" />
+</Solution>

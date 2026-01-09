@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="CreatingCustomDynamicObject/CreatingCustomDynamicObject.csproj" />
+  <Project Path="CreatingExtensionMethod/CreatingExtensionMethod.csproj" />
+  <Project Path="ExportingDataToExcel/ExportingDataToExcel.csproj" />
+  <Project Path="GenericNullableimplementation/GenericNullableimplementation.csproj" />
+  <Project Path="Homework/Homework.csproj" />
+  <Project Path="Homework2/Homework2.csproj" />
+  <Project Path="Homework2_Resolved/Homework2_Resolved.csproj" />
+  <Project Path="OverridingVirtualMethod/OverridingVirtualMethod.csproj" />
+  <Project Path="TypesAdvanced/TypesAdvanced.csproj" />
+  <Project Path="UsingSealedKeyword/UsingSealedKeyword.csproj" />
+  <Project Path="UsingWhereClause/UsingWhereClause.csproj" />
+</Solution>

@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="ConsumingJson/ConsumingJson.csproj" />
+  <Project Path="ConsumingXml/ConsumingXml.csproj" />
+  <Project Path="ExecutingSql/ExecutingSql.csproj" />
+  <Project Path="Homework/Homework.csproj" />
+  <Project Path="HomeworkResolved/HomeworkResolved.csproj" />
+  <Project Path="InsertingValuesParameterized/InsertingValuesParameterized.csproj" />
+  <Project Path="MyWcfService/MyWcfService.csproj" Id="daf03158-2db1-4f13-9a87-684b678dacbd" />
+  <Project Path="SqlConecctionExample/SqlConecctionExample.csproj" />
+  <Project Path="UpdatingData/UpdatingData.csproj" />
+  <Project Path="UsingCodeFirst/UsingCodeFirst.csproj" />
+  <Project Path="UsingTransactionScope/UsingTransactionScope.csproj" />
+  <Project Path="UsingWCF/UsingWCF.csproj" />
+</Solution>

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ScalabilityVersusResponsiveness/ScalabilityVersusResponsiveness.csproj" />
+  <Project Path="UsingAsyncAwait/UsingAsyncAwait.csproj" />
+  <Project Path="UsingAsyncAwaitExercise/UsingAsyncAwaitExercise.csproj" />
+  <Project Path="UsingConfigureAwait/UsingConfigureAwait.csproj" />
+</Solution>

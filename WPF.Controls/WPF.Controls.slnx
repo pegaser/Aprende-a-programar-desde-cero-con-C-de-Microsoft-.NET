@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="Buttons/Buttons.csproj" />
+  <Project Path="DataDisplay/DataDisplay.csproj" />
+  <Project Path="DateDisplay/DateDisplay.csproj" />
+  <Project Path="Documents/Documents.csproj" />
+  <Project Path="InkDigital/InkDigital.csproj" />
+  <Project Path="Inputs/Inputs.csproj" />
+  <Project Path="Layouts/Layouts.csproj" />
+  <Project Path="Media/Media.csproj" />
+  <Project Path="Menus/Menus.csproj" />
+  <Project Path="Navigation/Navigation.csproj" />
+  <Project Path="Selections/Selections.csproj" />
+  <Project Path="UserInformation/UserInformation.csproj" />
+</Solution>

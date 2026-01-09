@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BuildConfigurations/BuildConfigurations.csproj" />
+  <Project Path="CompilerDirectives/CompilerDirectives.csproj" />
+  <Project Path="Homework/Homework.csproj" />
+  <Project Path="PdbFiles/PdbFiles.csproj" />
+</Solution>

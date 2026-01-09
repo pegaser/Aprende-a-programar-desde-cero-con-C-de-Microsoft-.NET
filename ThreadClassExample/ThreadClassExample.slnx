@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ThreadClassExample/ThreadClassExample.csproj" />
+  <Project Path="ThreadClassExercise/ThreadClassExercise.csproj" />
+</Solution>

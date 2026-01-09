@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Configuration;
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
+using SqlConnection = Microsoft.Data.SqlClient.SqlConnection;
 
 namespace SqlConecctionExample
 {
@@ -21,7 +22,7 @@ namespace SqlConecctionExample
             sqlConnectionStringBuilder.InitialCatalog = "MyCatalog";
             connectionString = sqlConnectionStringBuilder.ToString();
 
-            string connectionString = ConfigurationManager.ConnectionStrings["ProgrammingInCSharpConnection"].ConnectionString;
+            connectionString = ConfigurationManager.ConnectionStrings["ProgrammingInCSharpConnection"].ConnectionString;
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 connection.Open();

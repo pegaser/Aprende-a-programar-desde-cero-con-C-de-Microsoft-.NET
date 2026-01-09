@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="AccessModifiers/AccessModifiers.csproj" />
+  <Project Path="SampleAbstract/SampleAbstract.csproj" />
+  <Project Path="SampleClassProject/SampleClassProject.csproj" />
+  <Project Path="SampleDelegate/SampleDelegate.csproj" />
+  <Project Path="SampleImplicitHeritance/SampleImplicitHeritance.csproj" />
+  <Project Path="SampleInheritance/SampleInheritance.csproj" />
+  <Project Path="SampleNestedClass/SampleNestedClass.csproj" />
+  <Project Path="SamppleOveride/SamppleOveride.csproj" />
+</Solution>

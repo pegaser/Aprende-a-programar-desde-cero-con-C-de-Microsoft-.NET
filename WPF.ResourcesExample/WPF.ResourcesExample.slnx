@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MyWpfLibrary/MyWpfLibrary.csproj" />
+  <Project Path="WPF.ResourcesExample/WPF.ResourcesExample.csproj" />
+</Solution>

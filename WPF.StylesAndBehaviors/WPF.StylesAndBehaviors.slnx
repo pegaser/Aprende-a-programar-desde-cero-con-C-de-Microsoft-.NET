@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CustomBehaviorsLibrary/CustomBehaviorsLibrary.csproj" />
+  <Project Path="WPF.Styles/WPF.Styles.csproj" />
+</Solution>

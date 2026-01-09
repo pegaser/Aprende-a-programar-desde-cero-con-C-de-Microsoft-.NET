@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="ExportingPublicKey/ExportingPublicKey.csproj" />
+  <Project Path="Homework_A/Homework_A.csproj" />
+  <Project Path="Homework_a_Resoved/Homework_A_Resoved.csproj" />
+  <Project Path="Homework_B/Homework_B.csproj" />
+  <Project Path="Homework_B_Resolved/Homework_B_Resolved.csproj" />
+  <Project Path="ManagingCertificates/ManagingCertificates.csproj" />
+  <Project Path="SecuringStringData/SecuringStringData.csproj" />
+  <Project Path="UseSymmetricEncryption/UseSymmetricEncryption.csproj" />
+  <Project Path="UsingHash/UsingHash.csproj" />
+</Solution>

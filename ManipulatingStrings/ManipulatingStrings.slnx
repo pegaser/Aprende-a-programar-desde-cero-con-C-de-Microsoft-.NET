@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="ConsoleApp1/ChangingCharStringBuilder.csproj" />
+  <Project Path="CreatingLargeNumberOfStrings/CreatingLargeNumberOfStrings.csproj" />
+  <Project Path="FormattingStrings/FormattingStrings.csproj" />
+  <Project Path="FormattingStringsExercise/FormattingStringsExercise.csproj" />
+  <Project Path="HomeworkResolved/HomeworkResolved.csproj" />
+  <Project Path="SearchingForAndEnumStrings/SearchingForAndEnumStrings.csproj" />
+  <Project Path="UsingStringBuilderInLoop/UsingStringBuilderInLoop.csproj" />
+  <Project Path="UsingStringWriterAsOutput/UsingStringWriterAsOutput.csproj" />
+</Solution>

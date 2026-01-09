@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="ActivateWindow/ActivateWindow.csproj" />
+  <Project Path="CloseWindow/CloseWindow.csproj" />
+  <Project Path="LifetimeWindow/LifetimeWindow.csproj" />
+  <Project Path="LocationWindow/LocationWindow.csproj" />
+  <Project Path="OpeningWindow/OpeningWindow.csproj" />
+  <Project Path="OwnerWindow/OwnerWindow.csproj" />
+  <Project Path="WindowAppearance/WindowAppearance.csproj" />
+  <Project Path="WindowClassExample/WindowClassExample.csproj" />
+  <Project Path="WindowStateExample/WindowStateExample.csproj" />
+</Solution>
